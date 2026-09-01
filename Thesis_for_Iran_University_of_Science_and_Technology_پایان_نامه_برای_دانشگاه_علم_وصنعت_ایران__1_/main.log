@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.1)  2 SEP 2026 00:12
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.1)  2 SEP 2026 00:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1202,13 +1202,22 @@ LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
 [12
 
 
-])
+]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 15.55188pt on input line 10.
+)
 
 LaTeX Font Warning: Font shape `TU/XBZar.ttf(0)/m/sl' undefined
 (Font)              using `TU/XBZar.ttf(0)/m/n' instead on input line 47.
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/sl' will be
 (Font)              scaled to size 12.0pt on input line 47.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not avai
+lable
+(Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on inpu
+t line 47.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 10.79993pt on input line 47.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1221,111 +1230,29 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
  (latexIntro.tex
 فصل 2.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 5.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 5.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 7.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 5.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 7.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 5.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 7.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 7.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 12.0pt on input line 11.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 11.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 15.
 [14
 
 
 
 
-]
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 34.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.88475pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.88475pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
-
-[15]
-File: lion.jpg Graphic file (type bmp)
-<lion.jpg>
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 16.03123pt, for example:
-(fancyhdr)                \setlength{\headheight}{16.03123pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-4.03123pt}.
-
-[16]
-
-LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
-(Font)              using `TU/XBNiloofar.ttf(0)/m/sl' instead on input line 98.
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.88475pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.88475pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
-
-[17]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.88475pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.88475pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
-
-[18]
-Overfull \hbox (18.16856pt too wide) in paragraph at lines 136--136
-[][]\TU/lmtt/m/n/12 Gonzalez, R.C., and Woods, R.E. {\em Digital Image Processi
-ng}, 3rd ed..[] []
+])
+Overfull \hbox (9.92708pt too wide) in paragraph at lines 14--48
+[]\TU/XBNiloofar.ttf(0)/m/sl/12 در معماری []\TU/TimesNewRoman(0)/m/n/12 RAG[]\T
+U/XBNiloofar.ttf(0)/m/sl/12 ، متون و اسناد پزشکی پس از پردازش، باید به شکل بردا
+رهای عددی (جاسازی یا []\TU/TimesNewRoman(0)/m/n/12 Embeddings[]\TU/XBNiloofar.t
+tf(0)/m/sl/12 )[]
  []
 
-File: gonzalez.png Graphic file (type bmp)
-<gonzalez.png>
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 16.03123pt, for example:
-(fancyhdr)                \setlength{\headheight}{16.03123pt}.
+(fancyhdr)                Make it at least 14.99652pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.99652pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-4.03123pt}.
+(fancyhdr)                \addtolength{\topmargin}{-2.99652pt}.
 
-[19] (main.bbl
+[15] (main.bbl
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sc' will be
 (Font)              scaled to size 10.79993pt on input line 9.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
-(Font)              scaled to size 10.79993pt on input line 11.
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/sc' undefined
@@ -1368,7 +1295,7 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
 (Font)              using `TU/XBNiloofar.ttf(0)/m/sl' instead on input line 92.
 
 
-) [20
+) [16
 
 
 
@@ -1377,18 +1304,15 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
 
  (appendix1.tex
 پیوست آ.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 15.55188pt on input line 16.
-[21
+
+LaTeX Warning: Reference `Sec:Ref' on page ص undefined on input line 10.
+
+[17
 
 
 ]
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not avai
-lable
-(Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on inpu
-t line 59.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
-(Font)              scaled to size 10.79993pt on input line 59.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 27.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1397,9 +1321,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
 
-[22]
+[18]
 File: asa-fa-crop.pdf Graphic file (type pdf)
 <use asa-fa-crop.pdf>
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
+(Font)              scaled to size 7.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
+(Font)              scaled to size 5.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
+(Font)              scaled to size 5.0pt on input line 70.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 6.29996pt on input line 70.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 71.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 71.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1408,7 +1364,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
 
-[23]
+[19]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 (Font)              scaled to size 10.79993pt on input line 103.
 )
@@ -1419,7 +1375,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
 
-[24]
+[20]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.88475pt, for example:
@@ -1427,12 +1383,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
 
-[25]
+[21]
 \openout2 = `appendix2.aux'.
 
  (appendix2.tex
 پیوست ب.
-[26
+[22
 
 
 
@@ -1450,7 +1406,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.89061pt}.
 
-[27]
+[23]
 File: lion.jpg Graphic file (type bmp)
 <lion.jpg>
 File: lion.jpg Graphic file (type bmp)
@@ -1463,7 +1419,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.89061pt}.
 
-[28]
+[24]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.89061pt, for example:
@@ -1471,7 +1427,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.89061pt}.
 
-[29]
+[25]
 \openout2 = `dicfa2en.aux'.
 
  (dicfa2en.tex)
@@ -1479,7 +1435,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--67
 [][]
  []
 
-[30
+[26
 
 
 
@@ -1492,14 +1448,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--68
 [][]
  []
 
-[31
+[27
 
 
 
 
 ]
 No file main.ind.
-(enTitle.tex [32
+(enTitle.tex [28
 
 
 
@@ -1512,14 +1468,9 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 (Font)              scaled to size 12.9599pt on input line 23.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 (Font)              scaled to size 22.39185pt on input line 23.
- [33])
+ [29])
 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-
-Package lastpage Warning: \@currentHpage is
-(lastpage)                just "page." without number,
-(lastpage)                \lastpage@lastpageHy is now let empty.
-
 (main.aux (intro.aux) (latexIntro.aux) (appendix1.aux) (appendix2.aux)
 (dicfa2en.aux) (dicen2fa.aux))
  ***********
@@ -1531,21 +1482,18 @@ L3 programming layer <2025-12-24>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 94A3F637EEEED4D6320F04E03C7ADF67;6212
-(rerunfilecheck)             After:  8E9A2A1B73F1B522D40177CA2E37D641;6251.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 43EE51F030670135D8CC43C8B365FCF7;5336.
  ) 
 Here is how much of TeX's memory you used:
- 17524 strings out of 402987
- 355673 string characters out of 5453079
- 815835 words of memory out of 5000000
- 45802 multiletter control sequences out of 15000+600000
- 636264 words of font info for 140 fonts, out of 8000000 for 9000
+ 17482 strings out of 402987
+ 354568 string characters out of 5453079
+ 813938 words of memory out of 5000000
+ 45764 multiletter control sequences out of 15000+600000
+ 636248 words of font info for 138 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,19n,97p,1213b,553s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,19n,97p,1213b,549s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (35 pages).
+Output written on main.pdf (31 pages).
