@@ -1,0 +1,82 @@
+\contentsline {chapter}{فهرست تصاویر}{د}{section*.1}%
+\contentsline {chapter}{فهرست جداول}{ذ}{section*.2}%
+\contentsline {chapter}{فهرست الگوریتم‌ها}{ر}{section*.2}%
+\contentsline {chapter}{فهرست علائم اختصاری}{ز}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}مقدمه و پیش‌نیاز‌ها}{1}{chapter.1}%
+\contentsline {section}{\numberline {1-1}مقدمه}{1}{section.1.1}%
+\contentsline {section}{\numberline {1-2}مفاهیم‌پایه}{2}{section.1.2}%
+\contentsline {section}{\numberline {1-3}تکنیک RAG}{2}{section.1.3}%
+\contentsline {section}{\numberline {1-4}ابزار‌ها و فریم‌ورک‌ها}{4}{section.1.4}%
+\contentsline {subsection}{\numberline {1-4-1}Qdrant}{4}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1-4-2}LangChain}{4}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1-4-3}LangGraph}{5}{subsection.1.4.3}%
+\contentsline {chapter}{\numberline {2}مبانی و فناوری‌های مورد استفاده}{6}{chapter.2}%
+\contentsline {section}{\numberline {2-1}معماری کلی}{6}{section.2.1}%
+\contentsline {section}{\numberline {2-2}مدیریت داده‌ها}{6}{section.2.2}%
+\contentsline {section}{\numberline {2-3}طراحی گراف}{6}{section.2.3}%
+\contentsline {section}{\numberline {2-4}قابلیت‌های ویژه}{6}{section.2.4}%
+\contentsline {chapter}{\numberline {3}روش‌شناسی تحقیق}{7}{chapter.3}%
+\contentsline {section}{\numberline {3-1}مقدمه}{7}{section.3.1}%
+\contentsline {section}{\numberline {3-2}معماری کلی سامانه}{7}{section.3.2}%
+\contentsline {section}{\numberline {3-3}داده‌های مورد استفاده}{8}{section.3.3}%
+\contentsline {section}{\numberline {3-4}روش گردآوری و آماده‌سازی داده‌ها}{9}{section.3.4}%
+\contentsline {subsection}{\numberline {3-4-1}استخراج متون داده‌ها}{9}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3-4-2}پاک‌سازی داده}{9}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3-4-3}قطعه‌بندی}{9}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3-4-4}استخراج فراداده}{10}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3-5}ابزارها و فناوری‌های مورد استفاده}{10}{section.3.5}%
+\contentsline {section}{\numberline {3-6}روش ارزیابی سامانه}{11}{section.3.6}%
+\contentsline {subsection}{\numberline {3-6-1}مجموعه‌داده ارزیابی}{11}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3-6-2}ارزیابی بخش بازیابی}{11}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3-6-3}معیارهای ارزیابی بازیابی}{11}{subsection.3.6.3}%
+\contentsline {subsection}{\numberline {3-6-4}ارزیابی اثر بازرتبه‌بندی}{12}{subsection.3.6.4}%
+\contentsline {subsection}{\numberline {3-6-5}ارزیابی زمان پاسخ‌دهی}{12}{subsection.3.6.5}%
+\contentsline {subsection}{\numberline {3-6-6}ارزیابی کیفی پاسخ‌های تولیدشده}{13}{subsection.3.6.6}%
+\contentsline {subsection}{\numberline {3-6-7}معیارهای ارزیابی کیفی}{13}{subsection.3.6.7}%
+\contentsline {section}{\numberline {3-7}جمع‌بندی}{13}{section.3.7}%
+\contentsline {chapter}{\numberline {4}پیاده‌سازی سامانه}{14}{chapter.4}%
+\contentsline {section}{\numberline {4-1}مقدمه}{14}{section.4.1}%
+\contentsline {section}{\numberline {4-2}پیاده‌سازی آماده‌سازی و پیش‌پردازش داده‌ها}{15}{section.4.2}%
+\contentsline {subsection}{\numberline {4-2-1}استخراج متن}{15}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4-2-2}پاک‌سازی داده}{15}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4-2-3}قطعه‌بندی سلسله‌مراتبی و حفاظت از جداول}{16}{subsection.4.2.3}%
+\contentsline {subsubsection}{مرحله‌ی اول: پردازش ساختاری و تولید قطعات کلان}{16}{section*.5}%
+\contentsline {subsubsection}{مرحله‌ی دوم: قطعه‌بندی ریزدانه با حفاظت از جداول}{17}{section*.6}%
+\contentsline {section}{\numberline {4-3}پیاده‌سازی پایگاه داده برداری و نمایه‌سازی}{18}{section.4.3}%
+\contentsline {subsection}{\numberline {4-3-1}استراتژی تعبیه‌سازی ترکیبی}{18}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4-3-2}مدیریت فراداده‌ها}{19}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4-3-3}معماری تزریق داده مقاوم در برابر خطا}{20}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4-4}پیاده‌سازی عامل ترجمه در معماری چندزبانه}{20}{section.4.4}%
+\contentsline {subsection}{\numberline {4-4-1}طراحی زنجیره‌های ترجمه و مهندسی پرامپت}{21}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4-4-2}یکپارچه‌سازی با گراف جریان‌کار}{21}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4-4-3}ارزیابی و اعتبارسنجی ماژول ترجمه}{22}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4-5}طراحی و پیاده‌سازی موتور جستجوی ترکیبی (\lr {\texttt {Hybrid Retriever}})}{22}{section.4.5}%
+\contentsline {subsection}{\numberline {4-5-1}مدل‌های تعبیه‌سازی دوگانه}{22}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4-5-2}استراتژی پیش‌واکشی و تلفیق رتبه‌ها (RRF)}{23}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4-5-3}حفظ بافتار سلسله‌مراتبی در نتایج}{24}{subsection.4.5.3}%
+\contentsline {subsection}{\numberline {4-5-4}اعتبارسنجی با شرح‌حال بالینی}{24}{subsection.4.5.4}%
+\contentsline {subsection}{\numberline {4-5-5}پیاده‌سازی بازرتبه‌بندی}{24}{subsection.4.5.5}%
+\contentsline {subsection}{\numberline {4-5-6}پیاده‌سازی تولید پاسخ با مدل زبانی}{24}{subsection.4.5.6}%
+\contentsline {section}{\numberline {4-6}پیاده‌سازی نقش‌های پزشک و بیمار}{24}{section.4.6}%
+\contentsline {section}{\numberline {4-7}معماری لایه سرویس و رابط کاربری}{24}{section.4.7}%
+\contentsline {subsection}{\numberline {4-7-1}طراحی و پیاده‌سازی لایه API}{25}{subsection.4.7.1}%
+\contentsline {subsubsection}{مدیریت طرح‌واره‌ها و اعتبارسنجی (Data Schemas)}{25}{section*.7}%
+\contentsline {subsubsection}{مسیریابی و مدیریت نقاط پایانی (Endpoints)}{25}{section*.8}%
+\contentsline {subsubsection}{ارکستراسیون جریان پردازش (LangGraph Service)}{26}{section*.9}%
+\contentsline {subsection}{\numberline {4-7-2}یکپارچه‌سازی با رابط کاربری (OpenWebUI)}{26}{subsection.4.7.2}%
+\contentsline {subsubsection}{مکانیسم اتصال و شناسایی}{26}{section*.10}%
+\contentsline {subsubsection}{استراتژی ارسال پاسخ}{27}{section*.11}%
+\contentsline {chapter}{\numberline {5}ارزیابی سامانه و تحلیل نتایج}{28}{chapter.5}%
+\contentsline {section}{\numberline {5-1}مقدمه}{28}{section.5.1}%
+\contentsline {section}{\numberline {5-2}مجموعه‌داده‌ی ارزیابی}{28}{section.5.2}%
+\contentsline {section}{\numberline {5-3}ارزیابی مدل‌های زبانی}{28}{section.5.3}%
+\contentsline {section}{\numberline {5-4}تحلیل و بحث}{29}{section.5.4}%
+\contentsline {section}{\numberline {5-5}جمع‌بندی}{30}{section.5.5}%
+\contentsline {chapter}{کتاب‌نامه}{31}{chapter*.12}%
+ \renewcommand \cftchappresnum {پیوست~}\setlength {\cftchapnumwidth }{\mylenapp }
+\contentsline {chapter}{\numberline {آ}مدیریت مراجع در لاتک}{32}{appendix.آ}%
+\contentsline {section}{\numberline {آ-1} مدیریت مراجع با \lr {Bib\pLRE {\TeX }} }{32}{section.آ.1}%
+\contentsline {subsection}{\numberline {آ-1-1}سبک‌های فعلی قابل استفاده در زی‌پرشین}{33}{subsection.آ.1.1}%
+\contentsline {subsection}{\numberline {آ-1-2} نحوه استفاده از سبک‌های فارسی}{34}{subsection.آ.1.2}%
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{37}{appendix*.13}%
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{38}{appendix*.14}%

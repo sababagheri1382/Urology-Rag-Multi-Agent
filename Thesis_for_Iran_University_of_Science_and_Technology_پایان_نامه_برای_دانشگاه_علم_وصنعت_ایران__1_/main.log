@@ -1,13 +1,14 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.8.26)  29 AUG 2026 10:26
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.8.26)  1 SEP 2026 23:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/sem 8/sem8/project/Thesis_for_Iran_University_of_Science_and_Technology_پ
-ایان_نامه_برای_دانشگاه_علم_وصنعت_ایران__1_/main.tex"
+**"d:/sem 8/sem8/project/GIT/Urology-Rag-Multi-Agent/Thesis_for_Iran_University
+_of_Science_and_Technology_پایان_نامه_برای_دانشگاه_علم_وصنعت_ایران__1_/main.tex
+"
 
-(d:/sem 8/sem8/project/Thesis_for_Iran_University_of_Science_and_Technology_پای
-ان_نامه_برای_دانشگاه_علم_وصنعت_ایران__1_/main.tex
+(d:/sem 8/sem8/project/GIT/Urology-Rag-Multi-Agent/Thesis_for_Iran_University_o
+f_Science_and_Technology_پایان_نامه_برای_دانشگاه_علم_وصنعت_ایران__1_/main.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-07-20>
 (IUST-Thesis.cls
@@ -1051,30 +1052,30 @@ or XeTeX engine
 LaTeX Warning: Unused global option(s):
     [oneside,openany].
 
-(main.aux (intro.aux) (latexIntro.aux) (appendix1.aux) (appendix2.aux)
-(dicfa2en.aux) (dicen2fa.aux))
+(main.aux (intro.aux) (chap3.aux) (chap4.aux) (chap5.aux) (appendix1.aux)
+(appendix2.aux) (dicfa2en.aux) (dicen2fa.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1126,7 +1127,7 @@ File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
 or XeTeX engine
 LaTeX Info: Redefining \color on input line 50.
 )
-Package hyperref Info: Link coloring ON on input line 31.
+Package hyperref Info: Link coloring ON on input line 32.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -1135,15 +1136,15 @@ Package hyperref Info: Link coloring ON on input line 31.
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 34.
+(Font)              scaled to size 24.88pt on input line 38.
 LaTeX Font Info:    Font shape `TU/XBNiloofarBold.ttf(0)/m/n' will be
-(Font)              scaled to size 27.36815pt on input line 34.
+(Font)              scaled to size 27.36815pt on input line 38.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 34.
+(Font)              scaled to size 17.28pt on input line 38.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 34.
+(Font)              scaled to size 17.28pt on input line 38.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 34.
+(Font)              scaled to size 14.4pt on input line 38.
  [1
 
 ]
@@ -1151,67 +1152,73 @@ File: besm.jpg Graphic file (type bmp)
 <besm.jpg>
  [2]
 LaTeX Font Info:    Font shape `TU/XBNiloofarBold.ttf(0)/m/n' will be
-(Font)              scaled to size 19.0081pt on input line 36.
+(Font)              scaled to size 19.0081pt on input line 40.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 36.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+(Font)              scaled to size 12.0pt on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
 
 
 (C:\Users\Ahoura\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
 
 
 (C:\Users\Ahoura\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 42.
+(Font)              scaled to size 12.0pt on input line 46.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 42.
+(Font)              scaled to size 8.0pt on input line 46.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 42.
+(Font)              scaled to size 6.0pt on input line 46.
 
 
 LaTeX Font Warning: Font shape `TU/XBZar.ttf(1)/bx/n' undefined
-(Font)              using `TU/XBZar.ttf(1)/m/n' instead on input line 42.
+(Font)              using `TU/XBZar.ttf(1)/m/n' instead on input line 46.
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 8.0pt on input line 42.
+(Font)              scaled to size 8.0pt on input line 46.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 6.0pt on input line 42.
+(Font)              scaled to size 6.0pt on input line 46.
 
 LaTeX Font Warning: Font shape `TU/XBZar.ttf(1)/m/it' undefined
-(Font)              using `TU/XBZar.ttf(1)/m/n' instead on input line 42.
+(Font)              using `TU/XBZar.ttf(1)/m/n' instead on input line 46.
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 42.
+(Font)              scaled to size 8.0pt on input line 46.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 6.0pt on input line 42.
+(Font)              scaled to size 6.0pt on input line 46.
 
-Overfull \hbox (1.46632pt too wide) in paragraph at lines 44--44
+Overfull \hbox (1.46632pt too wide) in paragraph at lines 48--48
 [][]\TU/XBNiloofar.ttf(0)/m/n/12 ردیف| []
  []
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/sl' undefined
-(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 51.
+(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 55.
 
 [1]
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/sl' will be
-(Font)              scaled to size 12.0pt on input line 52.
+(Font)              scaled to size 12.0pt on input line 56.
  [2]
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
 [][]
  []
 
-[3] [4]
+[3]
+Overfull \hbox (1.47427pt too wide) in paragraph at lines 80--81
+[][]\TU/XBNiloofar.ttf(0)/m/sl/12 در آغاز، وظیفهٔ خود می‌دانیم از زحمات بی‌دریغ
+، دلسوزانه و هدایت‌های علمی استاد راهنمای گران‌قدرمان،[]
+ []
+
+[4]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 113.
+(Font)              scaled to size 10.79993pt on input line 116.
  [5])
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 24.88pt on input line 35.
+(Font)              scaled to size 24.88pt on input line 36.
  (main.toc
 
 LaTeX Font Warning: Font shape `TU/XBZar.ttf(0)/b/n' undefined
@@ -1221,31 +1228,30 @@ LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 5.
 [6
 
-] [7] [8] [9])
+] [7] [8])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [10] (main.lof)
+ [9] (main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [11] (main.lot)
+ [10] (main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [12] (main.loa)
+ [11] (main.loa)
 \tf@loa=\write8
 \openout8 = `main.loa'.
 
- [13
+ [12
 
-]
-(acronyms.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 4--43
+] (acronyms.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 4--44
 [][]
  []
 
-[14
+[13
 
 ]
 \openout2 = `intro.aux'.
@@ -1315,6 +1321,10 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
 (Font)              scaled to size 7.19995pt on input line 83.
 
 
+LaTeX Warning: Reference `Chap:latexIntro' on page 3 undefined on input line 86
+.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
@@ -1326,6 +1336,9 @@ LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
 (Font)              scaled to size 14.4pt on input line 154.
 
 
+LaTeX Warning: Reference `Sec:Ref' on page 4 undefined on input line 192.
+
+
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.39407pt, for example:
 (fancyhdr)                \setlength{\headheight}{15.39407pt}.
@@ -1335,4 +1348,473 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.39407p
+(fancyhdr)                Make it at least 15.39407pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.39407pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.39407pt}.
+
+[5]
+فصل 2.
+) [6
+
+]
+\openout2 = `chap3.aux'.
+
+ (chap3.tex
+فصل 3.
+File: architecture.png Graphic file (type bmp)
+<architecture.png>
+[7
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.99652pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.99652pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.99652pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.5347pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.5347pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.5347pt}.
+
+[13]
+\openout2 = `chap4.aux'.
+
+ (chap4.tex
+فصل 4.
+[14
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.85004pt}.
+
+[15]
+Overfull \hbox (8.2734pt too wide) in paragraph at lines 57--58
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 قطعه‌بندی مبتنی بر سرفصل\TU/XBNiloofar.ttf(0)/
+m/sl/12 : با استفاده از کلاس \TU/lmtt/m/n/12 MarkdownHeaderTextSplitter \TU/XBN
+iloofar.ttf(0)/m/sl/12 از کتابخانه‌ی[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.85004pt}.
+
+[16]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 68.
+
+Overfull \hbox (73.22974pt too wide) in paragraph at lines 70--72
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 قطعه‌بندی بازگشتی با طول متغیر\TU/XBNiloofar.t
+tf(0)/m/sl/12 : متن محافظت‌شده با استفاده از کلاس \TU/lmtt/m/n/12 RecursiveChar
+acterTextSplitter[]
+ []
+
+
+Overfull \hbox (2.88399pt too wide) in paragraph at lines 70--72
+[]\TU/XBNiloofar.ttf(0)/m/sl/12 از کتابخانه‌ی \TU/lmtt/m/n/12 LangChain \TU/XBN
+iloofar.ttf(0)/m/sl/12 به قطعات ریزدانه تفکیک می‌شود. پارامترهای تنظیمی این مرح
+له عبارت‌اند[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.85004pt}.
+
+[17]
+Overfull \hbox (5.70279pt too wide) in paragraph at lines 95--96
+[][]\TU/XBNiloofar.ttf(0)/m/sl/12 در نهایت، پس از اعمال مراحل فوق بر روی کل پیک
+ره‌ی متنی، تعداد \TU/XBZar.ttf(0)/m/sl/12 ۳۶۲۸۵ \TU/XBNiloofar.ttf(0)/m/sl/12 ق
+طعه (Chunk) ساختاریافته[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.99652pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.99652pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.99652pt}.
+
+[18]
+Overfull \hbox (11.18428pt too wide) in paragraph at lines 106--107
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 بردار متراکم[][][][][][][][][][][]: \TU/XBNilo
+ofar.ttf(0)/m/sl/12 برای درک معنایی و مفهومی عمیق متون، از مدل زبانی []\TU/lmtt
+/m/n/12 BAAI/bge-large-en-v1.5[][]
+ []
+
+
+Overfull \hbox (8.25826pt too wide) in paragraph at lines 107--108
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 بردار تنک[][][][][][][][][][][]: \TU/XBNiloofa
+r.ttf(0)/m/sl/12 برای حفظ دقت در تطبیق کلمات کلیدی نادر و تخصصی[][][][][][][][]
+[][][]، مدل []\TU/lmtt/m/n/12 Splade_PP_en_v1[][]
+ []
+
+
+Overfull \hbox (5.5738pt too wide) in paragraph at lines 114--115
+[]\TU/XBNiloofar.ttf(0)/m/sl/12 هر نقطه[][][][][][][][][][][] در پایگاه داده، ع
+لاوه بر بردارهای متراکم و تنک، شامل اطلاعاتی نظیر شناسه سند اصلی ([]\TU/lmtt/m/
+n/12 doc_id[]\TU/XBNiloofar.ttf(0)/m/sl/12 )،[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.99652pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.99652pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.99652pt}.
+
+[19]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 15.55188pt on input line 160.
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <17.28> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 160.
+
+Overfull \hbox (38.7578pt too wide) in paragraph at lines 160--160
+[][]\TU/XBNiloofar.ttf(0)/b/n/17.28 طراحی و پیاده‌سازی موتور جستجوی ترکیبی ([]\
+TU/lmtt/b/n/17.28 Hybrid Retriever[]\TU/XBNiloofar.ttf(0)/b/n/17.28 ) []
+ []
+
+
+Overfull \hbox (25.02505pt too wide) in paragraph at lines 168--169
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 تعبیه‌سازی متراکم (Dense Embedding): \TU/XBNil
+oofar.ttf(0)/m/sl/12 برای درک بافتار و شباهت معنایی، از مدل پیش‌آموزش‌دیده[]
+ []
+
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not avai
+lable
+(Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on inpu
+t line 169.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
+(Font)              scaled to size 10.79993pt on input line 169.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27]
+\openout2 = `chap5.aux'.
+
+ (chap5.tex
+فصل 5.
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+[28
+
+
+
+
+]
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.42337pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.42337pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.42337pt}.
+
+[29]
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.5347pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.5347pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.5347pt}.
+
+[30] (main.bbl
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sc' will be
+(Font)              scaled to size 10.79993pt on input line 9.
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/sc' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 36.
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/m/sl' instead on input line 37.
+
+
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/sc' will be
+(Font)              scaled to size 12.0pt on input line 45.
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/m/sl' instead on input line 46.
+
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/m/sl' instead on input line 64.
+
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 70--78
+[][] \TU/XBNiloofar.ttf(0)/m/sc/12 تحصیلات‌تکمیلی.  راهنمای نگارش پایان‌نامه‌ی 
+کارشناسی ارشد و رساله‌ی دکتری.[]
+ []
+
+
+Underfull \hbox (badness 3895) in paragraph at lines 81--87
+[][] \TU/XBNiloofar.ttf(0)/m/sc/12 خلیقی، وفا.  زی‌پرشین ([]$[][]$[]): بسته فار
+سی برای حروف‌چینی در []\TU/TimesNewRoman(0)/m/n/12 L[]T[]X2e[]\TU/XBNiloofar.tt
+f(0)/m/sc/12 .[]
+ []
+
+
+LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
+(Font)              using `TU/XBNiloofar.ttf(0)/m/sl' instead on input line 92.
+
+
+) [31
+
+
+
+]
+\openout2 = `appendix1.aux'.
+
+ (appendix1.tex
+پیوست آ.
+
+LaTeX Warning: Reference `Sec:Ref' on page 32 undefined on input line 10.
+
+[32
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.88475pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.88475pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
+
+[33]
+File: asa-fa-crop.pdf Graphic file (type pdf)
+<use asa-fa-crop.pdf>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.88475pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.88475pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
+
+[34]
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 103.
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.88475pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.88475pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
+
+[35]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.88475pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.88475pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
+
+[36]
+\openout2 = `appendix2.aux'.
+
+ (appendix2.tex)
+\openout2 = `dicfa2en.aux'.
+
+ (dicfa2en.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 5--70
+[][]
+ []
+
+[37
+
+
+
+
+
+
+
+]
+\openout2 = `dicen2fa.aux'.
+
+ (dicen2fa.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 5--71
+[][]
+ []
+
+[38
+
+
+
+
+]
+No file main.ind.
+(enTitle.tex [39
+
+
+
+]
+File: logo-en.pdf Graphic file (type pdf)
+<use logo-en.pdf>
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 28.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 28.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
+(Font)              scaled to size 22.39185pt on input line 28.
+ [40])
+
+enddocument/afterlastpage (AED): lastpage setting LastPage.
+(main.aux (intro.aux) (chap3.aux) (chap4.aux) (chap5.aux) (appendix1.aux)
+(appendix2.aux) (dicfa2en.aux) (dicen2fa.aux))
+ ***********
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-07-20>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 62C3C942B571DA5D61BCEC8F2FACBB9C;16893.
+ ) 
+Here is how much of TeX's memory you used:
+ 17530 strings out of 402620
+ 359594 string characters out of 5438676
+ 829346 words of memory out of 5000000
+ 46157 multiletter control sequences out of 15000+600000
+ 635360 words of font info for 140 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 93i,12n,99p,1360b,522s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on main.pdf (55 pages).
