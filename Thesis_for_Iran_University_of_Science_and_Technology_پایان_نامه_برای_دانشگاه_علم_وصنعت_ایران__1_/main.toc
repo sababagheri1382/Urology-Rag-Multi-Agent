@@ -1,0 +1,33 @@
+\contentsline {chapter}{فهرست تصاویر}{ح}{section*.1}%
+\contentsline {chapter}{فهرست جداول}{خ}{section*.2}%
+\contentsline {chapter}{فهرست الگوریتم‌ها}{د}{section*.2}%
+\contentsline {chapter}{فهرست علائم اختصاری}{ذ}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}مقدمه و پیش‌نیازها}{ر}{chapter.1}%
+\contentsline {section}{\numberline {1-1}مقدمه}{ر}{section.1.1}%
+\contentsline {section}{\numberline {1-2}مفاهیم پایه}{ر}{section.1.2}%
+\contentsline {section}{\numberline {1-3}RAG}{ز}{section.1.3}%
+\contentsline {chapter}{\numberline {2}آشنایی سریع با برخی دستورات لاتک}{ژ}{chapter.2}%
+\contentsline {section}{\numberline {2-1}بندها و زیرنویس‌ها}{ژ}{section.2.1}%
+\contentsline {section}{\numberline {2-2}فرمول‌های ریاضی}{س}{section.2.2}%
+\contentsline {subsection}{\numberline {2-2-1}یک زیربخش}{س}{subsection.2.2.1}%
+\contentsline {subsubsection}{یک زیرزیربخش}{س}{section*.5}%
+\contentsline {section}{\numberline {2-3}نوشته‌های فارسی و انگلیسی مخلوط}{ش}{section.2.3}%
+\contentsline {section}{\numberline {2-4}افزودن تصویر به نوشته}{ش}{section.2.4}%
+\contentsline {section}{\numberline {2-5}محیط‌های شمارش و نکات}{ص}{section.2.5}%
+\contentsline {section}{\numberline {2-6}تعریف و قضیه}{ض}{section.2.6}%
+\contentsline {section}{\numberline {2-7}چگونگی نوشتن و ارجاع به مراجع}{ض}{section.2.7}%
+\contentsline {chapter}{کتاب‌نامه}{ظ}{chapter*.6}%
+ \renewcommand \cftchappresnum {پیوست~}\setlength {\cftchapnumwidth }{\mylenapp }
+\contentsline {chapter}{\numberline {آ}مدیریت مراجع در لاتک}{ع}{appendix.Alph1}%
+\contentsline {section}{\numberline {آ-1} مدیریت مراجع با \lr {Bib\pLRE {\TeX }} }{ع}{section.Alph1.1}%
+\contentsline {subsection}{\numberline {آ-1-1}سبک‌های فعلی قابل استفاده در زی‌پرشین}{غ}{subsection.Alph1.1.1}%
+\contentsline {subsection}{\numberline {آ-1-2} نحوه استفاده از سبک‌های فارسی}{ف}{subsection.Alph1.1.2}%
+\contentsline {chapter}{\numberline {ب}‌جدول، نمودار و الگوریتم در لاتک}{گ}{appendix.Alph2}%
+\contentsline {section}{\numberline {ب-1}مدلهای حرکت دوبعدی}{گ}{section.Alph2.1}%
+\contentsline {section}{\numberline {ب-2}ماتریس}{گ}{section.Alph2.2}%
+\contentsline {section}{\numberline {ب-3}الگوریتم با دستورات فارسی}{ل}{section.Alph2.3}%
+\contentsline {section}{\numberline {ب-4}الگوریتم با دستورات لاتین}{م}{section.Alph2.4}%
+\contentsline {section}{\numberline {ب-5}نمودار}{م}{section.Alph2.5}%
+\contentsline {section}{\numberline {ب-6}تصویر}{ن}{section.Alph2.6}%
+\contentsline {chapter}{واژه‌نامه فارسی به انگلیسی}{و}{appendix*.7}%
+\contentsline {chapter}{واژه‌نامه انگلیسی به فارسی}{ه}{appendix*.8}%
