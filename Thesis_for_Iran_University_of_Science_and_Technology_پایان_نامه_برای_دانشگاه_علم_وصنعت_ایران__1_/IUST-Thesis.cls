@@ -32,6 +32,8 @@
 \newcommand{\secondadvisor}[1]{\def\@secondadvisor{#1}}
 \def\name#1{\gdef\@name{#1}}
 \def\surname#1{\gdef\@surname{#1}}
+\def\secondname#1{\gdef\@secondname{#1}}
+\def\secondsurname#1{\gdef\@secondsurname{#1}}
 \def\keywords#1{\gdef\@keywords{#1}}
 \def\fa-abstract#1{\gdef\@fa-abstract{#1}}
 \def\faculty#1{\gdef\@faculty{#1}}
@@ -40,6 +42,7 @@
 \def\department#1{\gdef\@department{#1}}
 \def\projectLabel#1{\gdef\@projectLabel{#1}}
 \def\studentID#1{\gdef\@studentID{#1}}
+\def\secondstudentID#1{\gdef\@secondstudentID{#1}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \def\latintitle#1{\gdef\@latintitle{#1}}
 \def\latinauthor#1{\gdef\@latinauthor{#1}}
@@ -52,6 +55,8 @@
 \def\secondlatinsupervisor#1{\gdef\@secondlatinsupervisor{#1}}
 \def\firstlatinadvisor#1{\gdef\@firstlatinadvisor{#1}}
 \def\secondlatinadvisor#1{\gdef\@secondlatinadvisor{#1}}
+\def\secondlatinname#1{\gdef\@secondlatinname{#1}}
+\def\secondlatinsurname#1{\gdef\@secondlatinsurname{#1}}
 \def\latinname#1{\gdef\@latinname{#1}}
 \def\latinsurname#1{\gdef\@latinsurname{#1}}
 \def\en-abstract#1{\gdef\@en-abstract{#1}}
@@ -112,7 +117,10 @@
 
 \vskip 1cm
 \par
-{\Large\bfseries{\large\bfseries   \@name\ \ \@surname}}
+{\Large\bfseries
+\@name\ \@surname\\
+\@secondname\ \@secondsurname
+}
 \par
 \vskip 15mm
 \large
@@ -185,7 +193,7 @@
 
 نام دانشكده: \@faculty
 
-نام دانشجو: \@name{} \@surname
+نام دانشجویان: \@name{} \@surname{} و \@secondname{} \@secondsurname
 
 عنوان \@projectLabel: \@title
 
@@ -209,24 +217,29 @@
 \end{center}
 \doublespacing 
 
-اینجانب 
-\@name \ \@surname \ 
+اینجانبان 
+\@name{} \@surname{} 
 به شماره دانشجویی 
-\@studentID {}
-دانشجوی رشته 
-\@subject {}
+\@studentID{}
+و 
+\@secondname{} \@secondsurname{} 
+به شماره دانشجویی 
+\@secondstudentID{}
+دانشجویان رشته 
+\@subject{}
 مقطع تحصیلی 
-\@degree {}
-تأیید می‌نمایم كه كلیه‌ی نتایج این \@projectLabel{} حاصل كار اینجانب و بدون هرگونه دخل و تصرف است و موارد نسخه‌برداری‌شده از آثار دیگران را با ذكر كامل مشخصات منبع ذكر كرده‌ام. درصورت اثبات خلاف مندرجات فوق، به تشخیص دانشگاه مطابق با ضوابط و مقررات حاكم ( قانون حمایت از حقوق مؤلفان و مصنفان و قانون ترجمه و تكثیر كتب و نشریات و آثار صوتی، ضوابط و مقررات آموزشی، پژوهشی و انضباطی ... ) با اینجانب رفتار خواهد شد و حق هرگونه اعتراض درخصوص احقاق حقوق مكتسب و تشخیص و تعیین تخلف و مجازات را از خویش سلب می‌نمایم. در ضمن، مسؤولیت هرگونه پاسخگویی به اشخاص اعم از حقیقی و حقوقی و مراجع ذی‌صلاح (اعم از اداری و قضایی) به عهده‌ی اینجانب خواهد بود و دانشگاه هیچ‌گونه مسؤولیتی در این خصوص نخواهد داشت.
+\@degree{}
+تأیید می‌نماییم كه كلیه‌ی نتایج این \@projectLabel{} حاصل كار اینجانبان و بدون هرگونه دخل و تصرف است و موارد نسخه‌برداری‌شده از آثار دیگران را با ذكر كامل مشخصات منبع ذكر كرده‌ایم. درصورت اثبات خلاف مندرجات فوق، به تشخیص دانشگاه مطابق با ضوابط و مقررات حاكم (قانون حمایت از حقوق مؤلفان و مصنفان و قانون ترجمه و تكثیر كتب و نشریات و آثار صوتی، ضوابط و مقررات آموزشی، پژوهشی و انضباطی ...) با اینجانبان رفتار خواهد شد و حق هرگونه اعتراض درخصوص احقاق حقوق مكتسب و تشخیص و تعیین تخلف و مجازات را از خویش سلب می‌نماییم. در ضمن، مسؤولیت هرگونه پاسخگویی به اشخاص اعم از حقیقی و حقوقی و مراجع ذی‌صلاح (اعم از اداری و قضایی) به عهده‌ی اینجانبان خواهد بود و دانشگاه هیچ‌گونه مسؤولیتی در این خصوص نخواهد داشت.
 
 \vspace{.5cm}
 \begin{flushleft}
-\begin{tabular}{lr}
-نام و نام خانوادگی:   & 	\@name{} \@surname \\
- تاریخ و امضا: & \\
+\begin{tabular}{ll@{\hspace{1.5cm}}ll}
+نام و نام خانوادگی: & \@name{} \@surname{} & نام و نام خانوادگی: & \@secondname{} \@secondsurname \\
+تاریخ و امضا: & & تاریخ و امضا: & \\
 \end{tabular}
 \end{flushleft}
 }
+
 
 % مجوز بهره‌برداری از پایان‌نامه
 \newcommand{\mojavezPage}
@@ -325,9 +338,11 @@ $\Box$ بهره‌برداری از این پایان‌نامه تا تاریخ
 \def\signature{\vspace{1cm}
 \begin{flushleft}
 {%\nastaliq \scriptsize 
-\@name\ \@surname \\
+\@name\ \@surname \qquad \@secondname\ \@secondsurname \\
 \@thesisdate}
 \end{flushleft}}
+
+
 
 % \def\abstract{
 % \newpage
@@ -392,8 +407,11 @@ $\Box$ بهره‌برداری از این پایان‌نامه تا تاریخ
 }
 \vskip 15mm
 {\bfseries\latinby}\par
-{\large %\supervisorfont
-\rm\@latinname \; \@latinsurname}\par
+{\large
+\rm
+\@latinname \; \@latinsurname\\
+\@secondlatinname \; \@secondlatinsurname
+}\par
 
 \vskip 15mm
 

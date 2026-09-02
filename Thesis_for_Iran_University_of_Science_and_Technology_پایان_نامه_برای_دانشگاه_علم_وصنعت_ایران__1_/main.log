@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.1)  2 SEP 2026 00:26
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.1)  2 SEP 2026 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -996,8 +996,8 @@ or XeTeX engine
 LaTeX Warning: Unused global option(s):
     [oneside,openany].
 
-(main.aux (intro.aux) (latexIntro.aux) (appendix1.aux) (appendix2.aux)
-(dicfa2en.aux) (dicen2fa.aux))
+(main.aux (intro.aux) (latexIntro.aux) (chap3.aux) (chap4.aux) (chap5.aux)
+(appendix1.aux) (appendix2.aux) (dicfa2en.aux) (dicen2fa.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
@@ -1079,15 +1079,15 @@ Package hyperref Info: Link coloring ON on input line 32.
 File: logo.pdf Graphic file (type pdf)
 <use logo.pdf>
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 24.88pt on input line 21.
+(Font)              scaled to size 24.88pt on input line 26.
 LaTeX Font Info:    Font shape `TU/XBNiloofarBold.ttf(0)/m/n' will be
-(Font)              scaled to size 27.36815pt on input line 21.
+(Font)              scaled to size 27.36815pt on input line 26.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 21.
+(Font)              scaled to size 17.28pt on input line 26.
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
-(Font)              scaled to size 17.28pt on input line 21.
+(Font)              scaled to size 17.28pt on input line 26.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 21.
+(Font)              scaled to size 14.4pt on input line 26.
  [1
 
 ]
@@ -1095,64 +1095,70 @@ File: besm.jpg Graphic file (type bmp)
 <besm.jpg>
  [2]
 LaTeX Font Info:    Font shape `TU/XBNiloofarBold.ttf(0)/m/n' will be
-(Font)              scaled to size 19.0081pt on input line 23.
+(Font)              scaled to size 19.0081pt on input line 28.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 23.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+(Font)              scaled to size 12.0pt on input line 28.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
 
 
 (D:\ProgramFiles\miktex\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
 
 
 (D:\ProgramFiles\miktex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 26.
+(Font)              scaled to size 12.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 26.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 26.
+(Font)              scaled to size 6.0pt on input line 31.
 
 
 LaTeX Font Warning: Font shape `TU/XBZar.ttf(1)/bx/n' undefined
-(Font)              using `TU/XBZar.ttf(1)/m/n' instead on input line 26.
+(Font)              using `TU/XBZar.ttf(1)/m/n' instead on input line 31.
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 8.0pt on input line 26.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 6.0pt on input line 26.
+(Font)              scaled to size 6.0pt on input line 31.
 
 LaTeX Font Warning: Font shape `TU/XBZar.ttf(1)/m/it' undefined
-(Font)              using `TU/XBZar.ttf(1)/m/n' instead on input line 26.
+(Font)              using `TU/XBZar.ttf(1)/m/n' instead on input line 31.
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 26.
+(Font)              scaled to size 8.0pt on input line 31.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 6.0pt on input line 26.
+(Font)              scaled to size 6.0pt on input line 31.
 
-Overfull \hbox (1.46632pt too wide) in paragraph at lines 28--28
+Overfull \hbox (1.46632pt too wide) in paragraph at lines 33--33
 [][]\TU/XBNiloofar.ttf(0)/m/n/12 ردیف| []
  []
 
 
 LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/sl' undefined
-(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 35.
+(Font)              using `TU/XBNiloofar.ttf(0)/m/n' instead on input line 40.
 
 [1]
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/sl' will be
-(Font)              scaled to size 12.0pt on input line 36.
+(Font)              scaled to size 12.0pt on input line 41.
  [2]
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
 [][]
  []
 
-[3] [4]
+[3]
+Overfull \hbox (1.47427pt too wide) in paragraph at lines 47--48
+[][]\TU/XBNiloofar.ttf(0)/m/sl/12 در آغاز، وظیفهٔ خود می‌دانیم از زحمات بی‌دریغ
+، دلسوزانه و هدایت‌های علمی استاد راهنمای گران‌قدرمان،[]
+ []
+
+[4]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 10.79993pt on input line 62.
+(Font)              scaled to size 10.79993pt on input line 66.
  [5])
 LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 36.
@@ -1165,30 +1171,310 @@ LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
 (Font)              scaled to size 12.0pt on input line 9.
 [6
 
-])
+] [7]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...pe X <return> to quit.}}{subsection.4.5.3}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 ...pe X <return> to quit.}}{subsection.4.5.4}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 ...pe X <return> to quit.}}{subsection.4.5.5}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 ...pe X <return> to quit.}}{subsection.4.5.6}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...k, type X <return> to quit.}}{section.4.6}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ...k, type X <return> to quit.}}{section.4.7}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...pe X <return> to quit.}}{subsection.4.7.1}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62 ...pe X <return> to quit.}}{subsection.4.7.2}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 ...ork, type X <return> to quit.}}{chapter.5}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ...k, type X <return> to quit.}}{section.5.1}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 ...k, type X <return> to quit.}}{section.5.2}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 ...k, type X <return> to quit.}}{section.5.3}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 ...k, type X <return> to quit.}}{section.5.4}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 ...k, type X <return> to quit.}}{section.5.5}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.71 ...k, type X <return> to quit.}}{chapter*.12}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 ...type X <return> to quit.}}{appendix.Alph1}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 ...ype X <return> to quit.}}{section.Alph1.1}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+[8]
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.75 ... <return> to quit.}}{subsection.Alph1.1.1}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 ... <return> to quit.}}{subsection.Alph1.1.2}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 ..., type X <return> to quit.}}{appendix*.13}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.78 ..., type X <return> to quit.}}{appendix*.14}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+)
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
- [7] (main.lof)
+ [9] (main.lof
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 ... type X <return> to quit.}}{figure.Alph1.1}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
- [8] (main.lot)
+ [10] (main.lot
+
+! LaTeX Error: Counter too large.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...work, type X <return> to quit.}}{table.5.1}
+                                                  %
+You've lost some text. Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [9] (main.loa)
+ [11] (main.loa)
 \tf@loa=\write8
 \openout8 = `main.loa'.
 
- [10
+ [12
 
 ] (acronyms.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 4--44
 [][]
  []
 
-[11
+[1
 
 ]
 \openout2 = `intro.aux'.
@@ -1199,7 +1485,7 @@ LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
 (Font)              scaled to size 24.88pt on input line 1.
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
 (Font)              scaled to size 17.28pt on input line 4.
-[12
+[2
 
 
 ]
@@ -1208,16 +1494,16 @@ LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 )
 
 LaTeX Font Warning: Font shape `TU/XBZar.ttf(0)/m/sl' undefined
-(Font)              using `TU/XBZar.ttf(0)/m/n' instead on input line 47.
+(Font)              using `TU/XBZar.ttf(0)/m/n' instead on input line 50.
 
 LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/sl' will be
-(Font)              scaled to size 12.0pt on input line 47.
+(Font)              scaled to size 12.0pt on input line 50.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on inpu
-t line 47.
+t line 50.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/it' will be
-(Font)              scaled to size 10.79993pt on input line 47.
+(Font)              scaled to size 10.79993pt on input line 50.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1225,22 +1511,180 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13]
+[3]
 \openout2 = `latexIntro.aux'.
 
  (latexIntro.tex
 فصل 2.
-[14
+[4
 
 
 
 
 ])
-Overfull \hbox (9.92708pt too wide) in paragraph at lines 14--48
-[]\TU/XBNiloofar.ttf(0)/m/sl/12 در معماری []\TU/TimesNewRoman(0)/m/n/12 RAG[]\T
-U/XBNiloofar.ttf(0)/m/sl/12 ، متون و اسناد پزشکی پس از پردازش، باید به شکل بردا
-رهای عددی (جاسازی یا []\TU/TimesNewRoman(0)/m/n/12 Embeddings[]\TU/XBNiloofar.t
-tf(0)/m/sl/12 )[]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.99652pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.99652pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.99652pt}.
+
+[5]
+\openout2 = `chap3.aux'.
+
+ (chap3.tex
+فصل 3.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
+(Font)              scaled to size 10.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
+(Font)              scaled to size 7.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
+(Font)              scaled to size 5.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
+(Font)              scaled to size 5.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
+(Font)              scaled to size 6.29996pt on input line 11.
+File: architecture.png Graphic file (type bmp)
+<architecture.png>
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 25.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 25.
+[6
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7]
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 55.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.99652pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.99652pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.99652pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.5347pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.5347pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.5347pt}.
+
+[12]
+\openout2 = `chap4.aux'.
+
+ (chap4.tex
+فصل 4.
+[13
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.85004pt}.
+
+[14]
+Overfull \hbox (8.2734pt too wide) in paragraph at lines 57--58
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 قطعه‌بندی مبتنی بر سرفصل\TU/XBNiloofar.ttf(0)/
+m/sl/12 : با استفاده از کلاس \TU/lmtt/m/n/12 MarkdownHeaderTextSplitter \TU/XBN
+iloofar.ttf(0)/m/sl/12 از کتابخانه‌ی[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.85004pt}.
+
+[15]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 68.
+
+Overfull \hbox (73.22974pt too wide) in paragraph at lines 70--72
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 قطعه‌بندی بازگشتی با طول متغیر\TU/XBNiloofar.t
+tf(0)/m/sl/12 : متن محافظت‌شده با استفاده از کلاس \TU/lmtt/m/n/12 RecursiveChar
+acterTextSplitter[]
+ []
+
+
+Overfull \hbox (2.88399pt too wide) in paragraph at lines 70--72
+[]\TU/XBNiloofar.ttf(0)/m/sl/12 از کتابخانه‌ی \TU/lmtt/m/n/12 LangChain \TU/XBN
+iloofar.ttf(0)/m/sl/12 به قطعات ریزدانه تفکیک می‌شود. پارامترهای تنظیمی این مرح
+له عبارت‌اند[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.85004pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.85004pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.85004pt}.
+
+[16]
+Overfull \hbox (5.70279pt too wide) in paragraph at lines 95--96
+[][]\TU/XBNiloofar.ttf(0)/m/sl/12 در نهایت، پس از اعمال مراحل فوق بر روی کل پیک
+ره‌ی متنی، تعداد \TU/XBZar.ttf(0)/m/sl/12 ۳۶۲۸۵ \TU/XBNiloofar.ttf(0)/m/sl/12 ق
+طعه (Chunk) ساختاریافته[]
  []
 
 
@@ -1250,7 +1694,163 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.99652pt}.
 
-[15] (main.bbl
+[17]
+Overfull \hbox (11.18428pt too wide) in paragraph at lines 106--107
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 بردار متراکم[][][][][][][][][][][]: \TU/XBNilo
+ofar.ttf(0)/m/sl/12 برای درک معنایی و مفهومی عمیق متون، از مدل زبانی []\TU/lmtt
+/m/n/12 BAAI/bge-large-en-v1.5[][]
+ []
+
+
+Overfull \hbox (8.25826pt too wide) in paragraph at lines 107--108
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 بردار تنک[][][][][][][][][][][]: \TU/XBNiloofa
+r.ttf(0)/m/sl/12 برای حفظ دقت در تطبیق کلمات کلیدی نادر و تخصصی[][][][][][][][]
+[][][]، مدل []\TU/lmtt/m/n/12 Splade_PP_en_v1[][]
+ []
+
+
+Overfull \hbox (5.5738pt too wide) in paragraph at lines 114--115
+[]\TU/XBNiloofar.ttf(0)/m/sl/12 هر نقطه[][][][][][][][][][][] در پایگاه داده، ع
+لاوه بر بردارهای متراکم و تنک، شامل اطلاعاتی نظیر شناسه سند اصلی ([]\TU/lmtt/m/
+n/12 doc_id[]\TU/XBNiloofar.ttf(0)/m/sl/12 )،[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.99652pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.99652pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.99652pt}.
+
+[18]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <17.28> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 160.
+
+Overfull \hbox (38.7578pt too wide) in paragraph at lines 160--160
+[][]\TU/XBNiloofar.ttf(0)/b/n/17.28 طراحی و پیاده‌سازی موتور جستجوی ترکیبی ([]\
+TU/lmtt/b/n/17.28 Hybrid Retriever[]\TU/XBNiloofar.ttf(0)/b/n/17.28 ) []
+ []
+
+
+Overfull \hbox (25.02505pt too wide) in paragraph at lines 168--169
+[][]\TU/XBNiloofar.ttf(0)/b/n/12 تعبیه‌سازی متراکم (Dense Embedding): \TU/XBNil
+oofar.ttf(0)/m/sl/12 برای درک بافتار و شباهت معنایی، از مدل پیش‌آموزش‌دیده[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21]
+LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 175.
+LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 175.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26]
+\openout2 = `chap5.aux'.
+
+ (chap5.tex
+فصل 5.
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+[27
+
+
+
+
+]
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.42337pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.42337pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.42337pt}.
+
+[28]
+Missing character: There is no ‏ in font [lmmono12-regular]:!
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 15.5347pt, for example:
+(fancyhdr)                \setlength{\headheight}{15.5347pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-3.5347pt}.
+
+[29] (main.bbl
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sc' will be
 (Font)              scaled to size 10.79993pt on input line 9.
 
@@ -1295,7 +1895,7 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
 (Font)              using `TU/XBNiloofar.ttf(0)/m/sl' instead on input line 92.
 
 
-) [16
+) [30
 
 
 
@@ -1305,15 +1905,12 @@ LaTeX Font Warning: Font shape `TU/XBNiloofar.ttf(0)/m/it' undefined
  (appendix1.tex
 پیوست آ.
 
-LaTeX Warning: Reference `Sec:Ref' on page ص undefined on input line 10.
+LaTeX Warning: Reference `Sec:Ref' on page 31 undefined on input line 10.
 
-[17
+[31
 
 
 ]
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 27.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.88475pt, for example:
@@ -1321,41 +1918,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
 
-[18]
+[32]
 File: asa-fa-crop.pdf Graphic file (type pdf)
 <use asa-fa-crop.pdf>
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBNiloofar.ttf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 10.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 7.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 5.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 7.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 5.0pt on input line 70.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 70.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/bx/n' will be
-(Font)              scaled to size 12.0pt on input line 71.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(1)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 71.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1364,7 +1929,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
 
-[19]
+[33]
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
 (Font)              scaled to size 10.79993pt on input line 103.
 )
@@ -1375,7 +1940,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
 
-[20]
+[34]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 15.88475pt, for example:
@@ -1383,59 +1948,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-3.88475pt}.
 
-[21]
+[35]
 \openout2 = `appendix2.aux'.
 
- (appendix2.tex
-پیوست ب.
-[22
-
-
-
-
-]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 62.
-LaTeX Font Info:    Font shape `TU/XBZar.ttf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 68.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.89061pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.89061pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.89061pt}.
-
-[23]
-File: lion.jpg Graphic file (type bmp)
-<lion.jpg>
-File: lion.jpg Graphic file (type bmp)
-<lion.jpg>
-)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.89061pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.89061pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.89061pt}.
-
-[24]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.89061pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.89061pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.89061pt}.
-
-[25]
+ (appendix2.tex)
 \openout2 = `dicfa2en.aux'.
 
  (dicfa2en.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 5--67
+Underfull \hbox (badness 10000) in paragraph at lines 5--74
 [][]
  []
 
-[26
+[36
+
+
+
 
 
 
@@ -1444,18 +1971,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--67
 \openout2 = `dicen2fa.aux'.
 
  (dicen2fa.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 5--68
+Underfull \hbox (badness 10000) in paragraph at lines 5--75
 [][]
  []
 
-[27
+[37
 
 
 
 
 ]
 No file main.ind.
-(enTitle.tex [28
+(enTitle.tex [38
 
 
 
@@ -1463,16 +1990,22 @@ No file main.ind.
 File: logo-en.pdf Graphic file (type pdf)
 <use logo-en.pdf>
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 23.
+(Font)              scaled to size 12.9599pt on input line 28.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 12.9599pt on input line 23.
+(Font)              scaled to size 12.9599pt on input line 28.
 LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/b/n' will be
-(Font)              scaled to size 22.39185pt on input line 23.
- [29])
+(Font)              scaled to size 22.39185pt on input line 28.
+ [39])
 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(main.aux (intro.aux) (latexIntro.aux) (appendix1.aux) (appendix2.aux)
-(dicfa2en.aux) (dicen2fa.aux))
+
+Package lastpage Warning: \@currentHpage is
+(lastpage)                macro:->page.39
+(lastpage)                not beginning with "page.",
+(lastpage)                \lastpage@lastpageHy is now let empty.
+
+(main.aux (intro.aux) (latexIntro.aux) (chap3.aux) (chap4.aux) (chap5.aux)
+(appendix1.aux) (appendix2.aux) (dicfa2en.aux) (dicen2fa.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -1484,16 +2017,19 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 43EE51F030670135D8CC43C8B365FCF7;5336.
+(rerunfilecheck)             Checksum: 2D3CB046BDB1FC949256787B51A9A5F0;16497.
  ) 
 Here is how much of TeX's memory you used:
- 17482 strings out of 402987
- 354568 string characters out of 5453079
- 813938 words of memory out of 5000000
- 45764 multiletter control sequences out of 15000+600000
- 636248 words of font info for 138 fonts, out of 8000000 for 9000
+ 17519 strings out of 402987
+ 355668 string characters out of 5453079
+ 822647 words of memory out of 5000000
+ 45775 multiletter control sequences out of 15000+600000
+ 635352 words of font info for 139 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 93i,19n,97p,1213b,549s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 93i,12n,99p,1213b,514s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (31 pages).
+Output written on main.pdf (53 pages).
