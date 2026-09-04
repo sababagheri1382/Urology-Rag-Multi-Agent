@@ -1,0 +1,156 @@
+
+======================================================================
+TEST: Persian -> English
+======================================================================
+
+--- FA->EN Test 1 ---
+Elapsed: 1.62 seconds
+Status: SUCCESS
+Input:
+عوارض جانبی داروی تامسولوسین در درمان بزرگی خوش‌خیم پروستات چیست؟
+
+Output:
+What are the side effects of the drug Tamsulosin in the treatment of benign prostatic hyperplasia (BPH)? Include keywords: alpha-blocker, urinary symptoms, orthostatic hypotension, dizziness, ejaculatory dysfunction.
+
+--- FA->EN Test 2 ---
+Elapsed: 1.08 seconds
+Status: SUCCESS
+Input:
+علائم سرطان مثانه چیست؟
+
+Output:
+What are the symptoms of bladder cancer? Include keywords: hematuria, dysuria, frequency, urgency, staging, diagnosis.
+
+--- FA->EN Test 3 ---
+Elapsed: 1.25 seconds
+Status: SUCCESS
+Input:
+آیا عفونت ادراری می‌تواند باعث خون در ادرار شود؟
+
+Output:
+Can a urinary tract infection cause blood in the urine? Include keywords: hematuria, UTI, urinary tract infection, diagnosis, symptoms.
+
+--- FA->EN Test 4 ---
+Elapsed: 1.34 seconds
+Status: SUCCESS
+Input:
+درمان بزرگی خوش‌خیم پروستات چیست؟
+
+Output:
+What is the treatment for benign prostatic hyperplasia (BPH)? Include keywords: alpha-blockers, 5-alpha-reductase inhibitors, TURP, minimally invasive therapies, LUTS.
+
+--- FA->EN Test 5 ---
+Elapsed: 3.83 seconds
+Status: SUCCESS
+Input:
+تفاوت بین بی‌اختیاری ادرار استرسی و فوریتی چیست؟
+
+Output:
+What is the difference between stress urinary incontinence and urge urinary incontinence? Include keywords: overactive bladder, pelvic floor muscles, detrusor overactivity, bladder control.
+
+======================================================================
+TEST: English -> Persian
+======================================================================
+
+--- EN->FA Test 1 ---
+Elapsed: 1.22 seconds
+Status: SUCCESS
+Input:
+Tamsulosin is commonly used to treat benign prostatic hyperplasia.
+
+Output:
+تامسولوسین معمولاً برای درمان هیپرپلازی خوش‌خیم پروستات استفاده می‌شود.
+
+--- EN->FA Test 2 ---
+Elapsed: 21.92 seconds
+Status: SUCCESS
+Input:
+Common side effects include dizziness, headache, and retrograde ejaculation.
+
+Output:
+عوارض جانبی شایع شامل سرگیجه، سردرد و انزال معکوس هستند.
+
+--- EN->FA Test 3 ---
+Elapsed: 44.05 seconds
+Status: SUCCESS
+Input:
+The patient presents with urinary frequency, urgency, and nocturia.
+
+Output:
+بیمار با تکرر ادرار، فوریت و شب‌ادراری مراجعه می‌کند.
+
+--- EN->FA Test 4 ---
+Elapsed: 10.23 seconds
+Status: SUCCESS
+Input:
+Benign prostatic hyperplasia is a non-cancerous enlargement of the prostate gland.
+
+Output:
+هیپرپلازی خوش‌خیم پروستات یک بزرگ‌شدگی غیرسرطانی غده پروستات است.
+
+--- EN->FA Test 5 ---
+Elapsed: 1.00 seconds
+Status: SUCCESS
+Input:
+Hematuria may be caused by urinary tract infections, kidney stones, or bladder tumors.
+
+Output:
+هماچوری ممکن است به علت عفونت‌های دستگاه ادراری، سنگ‌های کلیه یا تومورهای مثانه ایجاد شود.
+
+======================================================================
+TEST: Drug Names
+======================================================================
+
+--- DRUG FA->EN Test 1 ---
+Elapsed: 0.97 seconds
+Status: SUCCESS
+Input:
+عوارض جانبی داروی تامسولوسین چیست؟
+
+Output:
+What are the side effects of the drug Tamsulosin?
+
+--- DRUG FA->EN Test 2 ---
+Elapsed: 1.36 seconds
+Status: SUCCESS
+Input:
+عوارض جانبی داروی فیناستراید چیست؟
+
+Output:
+What are the side effects of the drug Finasteride? Include keywords: androgenic alopecia, benign prostatic hyperplasia, sexual dysfunction, hormonal therapy.
+
+--- DRUG FA->EN Test 3 ---
+Elapsed: 1.17 seconds
+Status: SUCCESS
+Input:
+عوارض جانبی داروی دوتاستراید چیست؟
+
+Output:
+What are the side effects of the drug Dutasteride?
+
+--- DRUG FA->EN Test 4 ---
+Elapsed: 13.23 seconds
+Status: SUCCESS
+Input:
+عوارض جانبی داروی سیپروفلوکساسین چیست؟
+
+Output:
+What are the side effects of the drug Ciprofloxacin? Include keywords: antibiotic, fluoroquinolone, adverse reactions, gastrointestinal, tendonitis, CNS effects.
+
+--- DRUG FA->EN Test 5 ---
+Elapsed: 2.28 seconds
+Status: SUCCESS
+Input:
+عوارض جانبی داروی تادالافیل چیست؟
+
+Output:
+What are the side effects of the drug Tadalafil? Include keywords: PDE5 inhibitor, adverse effects, contraindications, interactions.
+
+--- DRUG FA->EN Test 6 ---
+Elapsed: 62.19 seconds
+Status: SUCCESS
+Input:
+عوارض جانبی داروی اکسی‌بوتینین چیست؟
+
+Output:
+What are the side effects of the drug Oxybutynin? Include keywords: anticholinergic, dry mouth, urinary retention, constipation, dizziness.

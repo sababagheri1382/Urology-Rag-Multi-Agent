@@ -1,0 +1,405 @@
+﻿Question,Domain,Language,User Type,Generation Output
+پروتکل درمانی استاندارد برای کارسینومای یوروتلیال غیر تهاجمی مثانه (NMIBC) در بیماران High-risk چیست؟,urology,fa,doctor,نمی‌دانم بر اساس مدارک ارائه‌شده.
+پروتکل درمانی استاندارد برای کارسینومای یوروتلیال غیر تهاجمی مثانه (NMIBC) در بیماران High-risk چیست؟,urology,fa,doctor,"نمی‌دانم بر اساس مدارک ارائه‌شده.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Smith and Tanaghos General Urology, 19th Ed > Urothelial Carcinoma: Cancers of the Bladder, Ureter, and Renal Pelvis`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 132 Surgical Management of Bladder Cancer:Transurethral, Open, and Robotic`"
+"It hurts when I pee and I see blood in my urine, should I be worried?",urology,en,patient,"Blood in your urine, especially when it is painful to urinate, is a concerning symptom that should not be ignored. This could be caused by conditions like a urinary tract infection, kidney or bladder stones, or even something more serious like a tumor. It’s important to see a doctor promptly for evaluation, as they will need to determine the exact cause and provide the right treatment. Please don’t delay seeking medical attention.
+
+---
+**📚 References & Breadcrumbs:**
+- `Smith and Tanaghos General Urology, 19th Ed > Symptoms of Disorders of the Genitourinary Tract`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 2 Evaluation of the Urologic Patient: History and Physical Examination`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 3 Indications and Interpretation of Laboratory Testing`"
+برای بیماری که با BPH مراجعه کرده و سطح PSA بالا داره، آیا Multiparametric MRI قبل از بیوپسی recommend میشه؟,urology,fa,doctor,"بله، انجام ام‌آرآی چندپارامتری (mpMRI) پیش از بیوپسی در بیمارانی که با هیپرپلازی خوش‌خیم پروستات (BPH) و سطح بالای PSA مراجعه می‌کنند توصیه می‌شود. ام‌آرآی پروستات می‌تواند تشخیص سرطان پروستات بالینی مهم را بهبود بخشد و ممکن است از انجام بیوپسی‌های غیرضروری جلوگیری کند، زیرا تا ۳۰ درصد از بیوپسی‌ها در صورتی که ام‌آرآی طبیعی باشد قابل اجتناب هستند، در حالی که تنها ۱۱ درصد از سرطان‌های پروستات با درجه گلیسون ۲ یا بالاتر نادیده گرفته می‌شوند. علاوه بر این، mpMRI می‌تواند برای ارزیابی BPH و التهاب مفید باشد و احتمالاً نیاز به بیوپسی‌های مکرر را در موارد PSA بالا و بیوپسی اولیه منفی کاهش دهد.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 151 Minimally Invasive and Endoscopic Management of Benign Prostatic Hyperplasia`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 6 Magnetic Resonance Imaging`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 157 Diagnosis and Staging of Prostate Cancer`"
+What is the formula for calculating the kinetic energy of an electron?,out_of_domain,en,patient,"I apologize, I am a specialized urology assistant and cannot answer questions outside of this domain."
+در تفسیر نمودارهای یورودینامیک، مشاهده Detrusor Overactivity همراه با فشار بالای نشت (Leak Point Pressure) معمولاً نشانه چیست؟,urology,fa,doctor,"مشاهده فعالیت بیش‌ازحد عضله دترسور همراه با فشار نشت دترسور بالا (>۴۰ سانتی‌متر آب) در مطالعات اورودینامیک نشان‌دهنده یافته‌های اورودینامیک بالقوه خطرناکی است که نیاز به مداخله دارند تا از نارسایی دستگاه ادراری فوقانی و تحتانی جلوگیری شود. این یافته‌ها نشان‌دهنده کاهش تطابق‌پذیری مثانه و افزایش خطر آسیب به دستگاه ادراری به دلیل فشارهای بالا و پایدار در زمان ذخیره‌سازی ادرار هستند.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 40 Clinical and Urodynamic Evaluation of Lower Urinary Tract Dysfunction in Children`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 118 Slings: Autologous, Biologic, Synthetic, and Mid-Urethral`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 107 Urodynamic and Videourodynamic Evaluation of the Lower Urinary Tract`"
+پروتکل درمانی استاندارد برای سرطان مثانه در بیماران پرخطر چیست؟,urology,fa,patient,"بیماران مبتلا به سرطان مثانه پرخطر معمولاً با روش برداشت تومور از طریق مجرای ادرار (TUR) تحت درمان قرار می‌گیرند که شامل برداشتن تومور از طریق مجرای ادرار است. پس از آن، درمان داخل مثانه‌ای انجام می‌شود که در آن دارو مستقیماً به داخل مثانه تزریق می‌شود تا خطر عود و پیشرفت بیماری کاهش یابد. پیگیری دقیق ضروری است، زیرا این بیماری احتمال بالایی برای بازگشت دارد.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 130 Management Strategies for Non–Muscle-Invasive Bladder Cancer (Ta, T1, and CIS)`
+- `Smith and Tanaghos General Urology, 19th Ed > Urothelial Carcinoma: Cancers of the Bladder, Ureter, and Renal Pelvis`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 79 Neoplasms of the Testis`"
+پروتکل درمانی استاندارد برای کارسینومای یوروتلیال غیر تهاجمی مثانه (NMIBC) در بیماران High-risk چیست؟,urology,fa,doctor,"نمی‌دانم بر اساس مدارک ارائه‌شده.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Smith and Tanaghos General Urology, 19th Ed > Urothelial Carcinoma: Cancers of the Bladder, Ureter, and Renal Pelvis`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 132 Surgical Management of Bladder Cancer:Transurethral, Open, and Robotic`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 131 Management of Muscle-Invasive and Metastatic Bladder Cancer`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 129 Tumors of the Urinary Bladder`"
+پروتکل درمانی استاندارد برای کارسینومای یوروتلیال غیر تهاجمی مثانه (NMIBC) در بیماران High-risk چیست؟,urology,fa,doctor,"نمی‌دانم بر اساس مدارک ارائه‌شده.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Smith and Tanaghos General Urology, 19th Ed > Urothelial Carcinoma: Cancers of the Bladder, Ureter, and Renal Pelvis`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 132 Surgical Management of Bladder Cancer:Transurethral, Open, and Robotic`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 131 Management of Muscle-Invasive and Metastatic Bladder Cancer`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 129 Tumors of the Urinary Bladder`"
+پروتکل درمانی استاندارد برای کارسینومای یوروتلیال غیر تهاجمی مثانه (NMIBC) در بیماران High-risk چیست؟,urology,fa,doctor,"پروتکل استاندارد درمان برای کارسینومای اوروتلیال غیرتهاجمی عضلانی پرخطر (NMIBC) مثانه شامل برداشت تومور مثانه از طریق رزکسیون ترانس‌اورتری (TURBT) برای حذف ضایعات قابل مشاهده است. به دلیل نرخ بالای عود (۴۰-۸۰٪ در طی ۶-۱۲ ماه تنها با TURBT)، درمان داخل‌مثانه‌ای با باسیل کالمت-گرن (BCG) به‌عنوان درمان القایی توصیه می‌شود تا یک پاسخ ایمنی موضعی ایجاد کرده و عود را کاهش دهد. درمان نگهدارنده با BCG داخل‌مثانه‌ای نیز برای حفظ اثر درمانی و کاهش بیشتر خطر عود و پیشرفت بیماری حیاتی است. طبقه‌بندی خطر، همان‌طور که در دستورالعمل‌های AUA و EAU تعریف شده است، برای هدایت این رویکرد درمانی ضروری است.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Smith and Tanaghos General Urology, 19th Ed > Urothelial Carcinoma: Cancers of the Bladder, Ureter, and Renal Pelvis`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 132 Surgical Management of Bladder Cancer:Transurethral, Open, and Robotic`
+- `Smith and Tanaghos General Urology, 19th Ed > Immunotherapy in Urologic Malignancies`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 130 Management Strategies for Non–Muscle-Invasive Bladder Cancer (Ta, T1, and CIS)`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 131 Management of Muscle-Invasive and Metastatic Bladder Cancer`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 83 Tumors of the Urethra`"
+"### Task:
+Generate a concise title summarizing the chat history.
+### Guidelines:
+- The title should clearly represent the main theme or subject of the conversation.
+- Keep it short: 2-4 words is best.
+- Do not use emojis, quotation marks, or special formatting.
+- Write the title in the chat's primary language; default to English if multilingual.
+- Prioritize accuracy over creativity.
+- Your entire response must consist solely of the JSON object, without any introductory or concluding text.
+- The output must be a single, raw JSON object, without any markdown code fences or other encapsulating text.
+- Ensure no conversational text, affirmations, or explanations precede or follow the raw JSON output, as this will cause direct parsing failure.
+### Output:
+JSON format: { ""title"": ""your concise title here"" }
+### Examples:
+- { ""title"": ""Stock Trends"" },
+- { ""title"": ""Chocolate Chip Cookies"" },
+- { ""title"": ""Music Streaming"" },
+- { ""title"": ""Remote Work"" }
+### Chat History:
+<chat_history>
+USER: سلام، من سونوگرافی دادم و نوشته هیدرونفروز گرید ۲ در کلیه چپ دارم و گهگاهی پهلوم تیر می‌کشه. این یعنی چی؟ آیا کلیه‌ام از کار افتاده و باید حتماً عمل بشم؟
+ASSISTANT: 
+</chat_history>",urology,fa,patient,"نمی‌دانم بر اساس مدارک ارائه‌شده.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Ureter and Ureteropelvic Junction`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 49 Anomalies of the Kidney and Collecting System`
+- `Smith and Tanaghos General Urology, 19th Ed > Percutaneous Endourology and Ureterorenoscopy`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 36 Pediatric Urogenital Imaging`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 61 Urologic Considerations in Pediatric Renal Transplantation`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 121 Urinary Tract Fistulae`"
+????? ?????????? ???? ? ?? ????????? ???? ???,out_of_domain,fa,patient,متاسفم، من یک دستیار تخصصی در حوزه اورولوژی هستم و نمی‌توانم به سوالات خارج از این حوزه پاسخ دهم.
+?????????? ???? ? ?? ????????? ???? ???,out_of_domain,fa,patient,متاسفم، من یک دستیار تخصصی در حوزه اورولوژی هستم و نمی‌توانم به سوالات خارج از این حوزه پاسخ دهم.
+?????????? ???? ? ?? ????????? ???? ???,out_of_domain,fa,patient,متاسفم، من یک دستیار تخصصی در حوزه اورولوژی هستم و نمی‌توانم به سوالات خارج از این حوزه پاسخ دهم.
+????? ?????????? ???? ? ?? ???? ?? ???? ??? ??? ???? ??? ????,out_of_domain,fa,patient,متاسفم، من یک دستیار تخصصی در حوزه اورولوژی هستم و نمی‌توانم به سوالات خارج از این حوزه پاسخ دهم.
+????? ?????????? ???? ? ?? ???? ?? ???? ??? ??? ???? ??? ????,out_of_domain,fa,patient,متاسفم، من یک دستیار تخصصی در حوزه اورولوژی هستم و نمی‌توانم به سوالات خارج از این حوزه پاسخ دهم.
+????? ?????????? ???? ? ?? ???? ?? ???? ??? ??? ???? ??? ????,out_of_domain,fa,patient,متاسفم، من یک دستیار تخصصی در حوزه اورولوژی هستم و نمی‌توانم به سوالات خارج از این حوزه پاسخ دهم.
+????? ?????????? ???? ? ?? ???? ?? ???? ??? ??? ???? ??? ????,out_of_domain,fa,patient,متاسفم، من یک دستیار تخصصی در حوزه اورولوژی هستم و نمی‌توانم به سوالات خارج از این حوزه پاسخ دهم.
+????? ?????????? ???? ? ?? ???? ?? ???? ??? ??? ???? ??? ????,out_of_domain,fa,patient,متاسفم، من یک دستیار تخصصی در حوزه اورولوژی هستم و نمی‌توانم به سوالات خارج از این حوزه پاسخ دهم.
+What is grade 2 hydronephrosis and does it require surgery?,urology,en,patient,"Grade 2 hydronephrosis refers to a moderate swelling of the kidney due to a buildup of urine, often caused by a blockage or obstruction. It is less severe than higher grades and may resolve on its own over time, especially in children. Studies show that more than 90% of cases of grade 1 and 2 hydronephrosis resolve within 12 to 26 months without surgery. Surgery is typically not required unless there are complications like infections, stones, or reduced kidney function. Regular monitoring by a doctor is important to ensure proper kidney health.
+
+---
+**📚 References & Breadcrumbs:**
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Ureter and Ureteropelvic Junction`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 21 Urologic Considerations in Pregnancy`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 94 Upper Urinary Tract Trauma`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 34 Perinatal Urology`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 121 Urinary Tract Fistulae`"
+????? ?????????? ???? ? ?? ???? ?? ???? ??? ??? ???? ??? ????,out_of_domain,fa,patient,متاسفم، من یک دستیار تخصصی در حوزه اورولوژی هستم و نمی‌توانم به سوالات خارج از این حوزه پاسخ دهم.
+????? ?????????? ???? ? ?? ???? ?? ???? ??? ??? ???? ??? ????,out_of_domain,fa,patient,متاسفم، من یک دستیار تخصصی در حوزه اورولوژی هستم و نمی‌توانم به سوالات خارج از این حوزه پاسخ دهم.
+علت وجود خون در ادرار چیست و چه زمانی باید به پزشک مراجعه کرد؟,urology,fa,patient,"وجود خون در ادرار، یا هماچوری، می‌تواند به دلایل مختلفی ایجاد شود. هماچوری آشکار (خون قابل مشاهده) ممکن است ناشی از عفونت‌های دستگاه ادراری، سنگ کلیه، سرطان مثانه یا آسیب باشد. هماچوری میکروسکوپی (که فقط زیر میکروسکوپ دیده می‌شود) نیز می‌تواند به دلیل گلومرولونفریت (التهاب واحدهای تصفیه‌کننده کلیه) یا مشکلات زمینه‌ای دیگر رخ دهد. علل کمتر شایع شامل تومورها، اختلالات انعقادی (مشکلات لخته شدن خون) یا ورزش شدید است.
+
+در صورتی که خون قابل مشاهده در ادرار خود مشاهده کردید، هماچوری میکروسکوپی مداوم داشتید، یا علائمی مانند درد، لخته‌های خون، یا سابقه خانوادگی سنگ کلیه یا سرطان را تجربه کردید، باید با پزشک، به‌ویژه یک متخصص اورولوژی، مشورت کنید. ارزیابی زودهنگام برای رد شرایط جدی مانند سرطان مثانه یا بیماری کلیوی بسیار مهم است.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 33 Urologic Aspects of Pediatric Nephrology`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 2 Evaluation of the Urologic Patient: History and Physical Examination`
+- `Smith and Tanaghos General Urology, 19th Ed > Urologic Laboratory Examination`
+- `Smith and Tanaghos General Urology, 19th Ed > Symptoms of Disorders of the Genitourinary Tract`"
+What is benign prostatic hyperplasia?,urology,en,patient,"Benign prostatic hyperplasia (BPH) is a common condition in men, especially as they age. It involves the non-cancerous growth of cells in the prostate, a gland near the bladder. This enlargement can lead to urinary problems, such as difficulty starting urination, a weak stream, or frequent need to urinate, because it may block the flow of urine. It is not life-threatening but can significantly affect quality of life.
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Bladder, Prostate, and Seminal Vesicles`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 88 Surgical, Radiologic, and Endoscopic Anatomy of the Kidney and Ureter`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Smith and Tanaghos General Urology, 19th Ed > Vascular Interventional Radiology`"
+What is benign prostatic hyperplasia?,urology,en,doctor,"Benign prostatic hyperplasia (BPH) is a histologic condition characterized by the proliferation of epithelial and stromal cells within the periurethral or transition zone of the prostate. It is the most common benign tumor in men, with its prevalence increasing with age. BPH can lead to benign prostatic enlargement (BPE) and is often associated with lower urinary tract symptoms (LUTS) due to bladder outlet obstruction (BOO) or other factors affecting micturition. The pathophysiology involves complex interactions between urethral obstruction, detrusor function, and urine production.
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Bladder, Prostate, and Seminal Vesicles`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 88 Surgical, Radiologic, and Endoscopic Anatomy of the Kidney and Ureter`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Smith and Tanaghos General Urology, 19th Ed > Vascular Interventional Radiology`"
+What is benign prostatic hyperplasia?,urology,en,patient,"Benign prostatic hyperplasia (BPH) is a common condition in men, especially as they age. It involves the non-cancerous growth of cells in the prostate, a gland near the bladder that helps produce semen. This growth can lead to an enlarged prostate, which may press on the urethra (the tube that carries urine out of the body) and cause urinary symptoms like difficulty starting urination, a weak stream, or frequent urination. It is not life-threatening but can significantly affect quality of life.
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Bladder, Prostate, and Seminal Vesicles`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 88 Surgical, Radiologic, and Endoscopic Anatomy of the Kidney and Ureter`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Smith and Tanaghos General Urology, 19th Ed > Vascular Interventional Radiology`"
+what is BPH?,urology,en,doctor,"Benign prostatic hyperplasia (BPH) is a pathological process characterized by nonmalignant enlargement of the prostate gland, primarily occurring in the transition zone. It involves hyperplasia, or an increase in cell number, with nodular growth composed of varying amounts of stroma and epithelium. BPH is a common condition in aging males and is a significant cause of lower urinary tract symptoms (LUTS), which may result from bladder outlet obstruction or other factors such as detrusor dysfunction.
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 68 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 148 Anatomy and Development of the Prostate`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Bladder, Prostate, and Seminal Vesicles`"
+"### Task:
+Suggest 3-5 relevant follow-up questions or prompts that the user might naturally ask next in this conversation as a **user**, based on the chat history, to help continue or deepen the discussion.
+### Guidelines:
+- Write all follow-up questions from the user’s point of view, directed to the assistant.
+- Make questions concise, clear, and directly related to the discussed topic(s).
+- Only suggest follow-ups that make sense given the chat content and do not repeat what was already covered.
+- If the conversation is very short or not specific, suggest more general (but relevant) follow-ups the user might ask.
+- Use the conversation's primary language; default to English if multilingual.
+- Response must be a JSON object with a ""follow_ups"" key containing an array of strings, no extra text or formatting.
+### Output:
+JSON format: { ""follow_ups"": [""Question 1?"", ""Question 2?"", ""Question 3?""] }
+### Chat History:
+<chat_history>
+USER: what is BPH?
+ASSISTANT: Benign prostatic hyperplasia (BPH) is a pathological process characterized by nonmalignant enlargement of the prostate gland, primarily occurring in the transition zone. It involves hyperplasia, or an increase in cell number, with nodular growth composed of varying amounts of stroma and epithelium. BPH is a common condition in aging males and is a significant cause of lower urinary tract symptoms (LUTS), which may result from bladder outlet obstruction or other factors such as detrusor dysfunction.
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 68 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 148 Anatomy and Development of the Prostate`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Bladder, Prostate, and Seminal Vesicles`
+</chat_history>",urology,en,doctor,"{
+  ""follow_ups"": [
+    ""What are the common symptoms of BPH?"",
+    ""How is BPH diagnosed?"",
+    ""What are the treatment options available for BPH?"",
+    ""Can BPH lead to complications if left untreated?"",
+    ""Are there any lifestyle changes that can help manage BPH symptoms?""
+  ]
+}
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 109 Neuromuscular Dysfunction of the Lower Urinary Tract`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 143 Focal Therapy for Renal Tumors`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 94 Upper Urinary Tract Trauma`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 137 Malignant Renal Tumors`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 121 Urinary Tract Fistulae`
+- `Smith and Tanaghos General Urology, 19th Ed > Women's Sexual Health`"
+در مورد BPH بهم توضیح بده,urology,fa,patient,"هیپرپلازی خوش‌خیم پروستات (BPH) بزرگ شدن غیرسرطانی غده پروستات است که معمولاً در مردان مسن رخ می‌دهد. این بزرگ شدن می‌تواند به علائم دستگاه ادراری تحتانی (LUTS) منجر شود، مانند دشواری در شروع ادرار، جریان ضعیف ادرار، تکرر ادرار، یا احساس تخلیه ناقص مثانه. سطح آنتی‌ژن اختصاصی پروستات (PSA) ممکن است در BPH افزایش یابد، اما این افزایش لزوماً نشان‌دهنده سرطان پروستات نیست.
+
+گزینه‌های درمان شامل داروهایی مانند آلفا-بلاکرها است که عضلات پروستات و مثانه را شل می‌کنند تا جریان ادرار بهبود یابد، و مهارکننده‌های ۵-آلفا ردوکتاز که به مرور زمان باعث کوچک شدن پروستات می‌شوند. اگر داروها مؤثر نباشند، گزینه‌های جراحی مانند TURP (برداشتن پروستات از طریق مجرای ادرار) ممکن است برای برداشتن بخشی از پروستات و کاهش علائم در نظر گرفته شوند.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 68 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 148 Anatomy and Development of the Prostate`
+- `Smith and Tanaghos General Urology, 19th Ed > Vascular Interventional Radiology`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 151 Minimally Invasive and Endoscopic Management of Benign Prostatic Hyperplasia`"
+"### Task:
+Suggest 3-5 relevant follow-up questions or prompts that the user might naturally ask next in this conversation as a **user**, based on the chat history, to help continue or deepen the discussion.
+### Guidelines:
+- Write all follow-up questions from the user’s point of view, directed to the assistant.
+- Make questions concise, clear, and directly related to the discussed topic(s).
+- Only suggest follow-ups that make sense given the chat content and do not repeat what was already covered.
+- If the conversation is very short or not specific, suggest more general (but relevant) follow-ups the user might ask.
+- Use the conversation's primary language; default to English if multilingual.
+- Response must be a JSON object with a ""follow_ups"" key containing an array of strings, no extra text or formatting.
+### Output:
+JSON format: { ""follow_ups"": [""Question 1?"", ""Question 2?"", ""Question 3?""] }
+### Chat History:
+<chat_history>
+USER: what is BPH?
+ASSISTANT: Benign prostatic hyperplasia (BPH) is a pathological process characterized by nonmalignant enlargement of the prostate gland, primarily occurring in the transition zone. It involves hyperplasia, or an increase in cell number, with nodular growth composed of varying amounts of stroma and epithelium. BPH is a common condition in aging males and is a significant cause of lower urinary tract symptoms (LUTS), which may result from bladder outlet obstruction or other factors such as detrusor dysfunction.
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 68 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 148 Anatomy and Development of the Prostate`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Bladder, Prostate, and Seminal Vesicles`
+USER: در مورد BPH بهم توضیح بده
+ASSISTANT: هیپرپلازی خوش‌خیم پروستات (BPH) بزرگ شدن غیرسرطانی غده پروستات است که معمولاً در مردان مسن رخ می‌دهد. این بزرگ شدن می‌تواند به علائم دستگاه ادراری تحتانی (LUTS) منجر شود، مانند دشواری در شروع ادرار، جریان ضعیف ادرار، تکرر ادرار، یا احساس تخلیه ناقص مثانه. سطح آنتی‌ژن اختصاصی پروستات (PSA) ممکن است در BPH افزایش یابد، اما این افزایش لزوماً نشان‌دهنده سرطان پروستات نیست.
+
+گزینه‌های درمان شامل داروهایی مانند آلفا-بلاکرها است که عضلات پروستات و مثانه را شل می‌کنند تا جریان ادرار بهبود یابد، و مهارکننده‌های ۵-آلفا ردوکتاز که به مرور زمان باعث کوچک شدن پروستات می‌شوند. اگر داروها مؤثر نباشند، گزینه‌های جراحی مانند TURP (برداشتن پروستات از طریق مجرای ادرار) ممکن است برای برداشتن بخشی از پروستات و کاهش علائم در نظر گرفته شوند.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 68 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 148 Anatomy and Development of the Prostate`
+- `Smith and Tanaghos General Urology, 19th Ed > Vascular Interventional Radiology`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 151 Minimally Invasive and Endoscopic Management of Benign Prostatic Hyperplasia`
+</chat_history>",urology,fa,patient,"هیپرپلازی خوش‌خیم پروستات (BPH) وضعیتی است که در آن غده پروستات به دلیل افزایش تعداد سلول‌ها، نه اندازه آن‌ها، بزرگ می‌شود. این بزرگ شدن معمولاً در مردان مسن رخ می‌دهد و می‌تواند به علائم دستگاه ادراری تحتانی (LUTS) منجر شود، مانند دشواری در ادرار کردن، جریان ضعیف ادرار، یا تکرر ادرار. این علائم ممکن است ناشی از انسداد خروجی مثانه یا عوامل دیگری مانند مشکلات عضلات مثانه باشند. اگر این علائم را تجربه می‌کنید، مهم است که برای ارزیابی و مدیریت مناسب به پزشک مراجعه کنید.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 148 Anatomy and Development of the Prostate`"
+Ask any Urology question,out_of_domain,en,doctor,"I apologize, I am a specialized urology assistant and cannot answer questions outside of this domain."
+what is BPH?,urology,en,doctor,"Benign prostatic hyperplasia (BPH) is a pathological process characterized by nonmalignant enlargement of the prostate gland, primarily occurring in the transition zone. It involves hyperplasia, or an increase in the number of stromal and epithelial cells, leading to nodular growth. BPH is a common cause of lower urinary tract symptoms (LUTS) in aging males, which may result from bladder outlet obstruction or other factors such as detrusor dysfunction.
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 68 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 148 Anatomy and Development of the Prostate`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Bladder, Prostate, and Seminal Vesicles`"
+"### Task:
+Suggest 3-5 relevant follow-up questions or prompts that the user might naturally ask next in this conversation as a **user**, based on the chat history, to help continue or deepen the discussion.
+### Guidelines:
+- Write all follow-up questions from the user’s point of view, directed to the assistant.
+- Make questions concise, clear, and directly related to the discussed topic(s).
+- Only suggest follow-ups that make sense given the chat content and do not repeat what was already covered.
+- If the conversation is very short or not specific, suggest more general (but relevant) follow-ups the user might ask.
+- Use the conversation's primary language; default to English if multilingual.
+- Response must be a JSON object with a ""follow_ups"" key containing an array of strings, no extra text or formatting.
+### Output:
+JSON format: { ""follow_ups"": [""Question 1?"", ""Question 2?"", ""Question 3?""] }
+### Chat History:
+<chat_history>
+USER: what is BPH?
+ASSISTANT: Benign prostatic hyperplasia (BPH) is a pathological process characterized by nonmalignant enlargement of the prostate gland, primarily occurring in the transition zone. It involves hyperplasia, or an increase in the number of stromal and epithelial cells, leading to nodular growth. BPH is a common cause of lower urinary tract symptoms (LUTS) in aging males, which may result from bladder outlet obstruction or other factors such as detrusor dysfunction.
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 68 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 148 Anatomy and Development of the Prostate`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Bladder, Prostate, and Seminal Vesicles`
+</chat_history>",urology,en,doctor,"{
+  ""follow_ups"": [
+    ""What are the common symptoms of BPH?"",
+    ""How is BPH typically diagnosed?"",
+    ""What are the treatment options available for BPH?"",
+    ""Can BPH lead to any complications if left untreated?"",
+    ""Are there any lifestyle changes that can help manage BPH symptoms?""
+  ]
+}
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 109 Neuromuscular Dysfunction of the Lower Urinary Tract`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 143 Focal Therapy for Renal Tumors`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 94 Upper Urinary Tract Trauma`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 121 Urinary Tract Fistulae`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 29 Sexually Transmitted Diseases`
+- `Smith and Tanaghos General Urology, 19th Ed > Women's Sexual Health`"
+"### Task:
+Generate 1-3 broad tags categorizing the main themes of the chat history, along with 1-3 more specific subtopic tags.
+
+### Guidelines:
+- Start with high-level domains (e.g. Science, Technology, Philosophy, Arts, Politics, Business, Health, Sports, Entertainment, Education)
+- Consider including relevant subfields/subdomains if they are strongly represented throughout the conversation
+- If content is too short (less than 3 messages) or too diverse, use only [""General""]
+- Use the chat's primary language; default to English if multilingual
+- Prioritize accuracy over specificity
+
+### Output:
+JSON format: { ""tags"": [""tag1"", ""tag2"", ""tag3""] }
+
+### Chat History:
+<chat_history>
+USER: what is BPH?
+ASSISTANT: Benign prostatic hyperplasia (BPH) is a pathological process characterized by nonmalignant enlargement of the prostate gland, primarily occurring in the transition zone. It involves hyperplasia, or an increase in the number of stromal and epithelial cells, leading to nodular growth. BPH is a common cause of lower urinary tract symptoms (LUTS) in aging males, which may result from bladder outlet obstruction or other factors such as detrusor dysfunction.
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 68 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 148 Anatomy and Development of the Prostate`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 113 Pharmacologic Management of Lower Urinary Tract Storage and Emptying Failure`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 150 Evaluation and Nonsurgical Management of Benign Prostatic Hyperplasia`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`
+- `Smith and Tanaghos General Urology, 19th Ed > Disorders of the Bladder, Prostate, and Seminal Vesicles`
+</chat_history>",urology,en,doctor,"{
+  ""tags"": [""Health"", ""Urology"", ""Benign Prostatic Hyperplasia""]
+}
+
+---
+**📚 References & Breadcrumbs:**
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 68 Integrated Men’s Health: Androgen Deficiency, Cardiovascular Risk, and Metabolic Syndrome`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 12 Fundamentals of Intraoperative Patient Safety`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 23 Assessment of Urologic and Surgical Outcomes`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 19 Energy Modalities in Urology`
+- `Smith and Tanaghos General Urology, 19th Ed > Diagnosis of Medical Renal Diseases`
+- `Campbell_Walsh_Wein_Urology_Volume_2_,_13th_Edition > 77 Sexual Function and Dysfunction in the Female`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 149 Benign Prostatic Hyperplasia: Etiology, Pathophysiology, Epidemiology, and Natural History`"
+پروتکل درمانی استاندارد برای کارسینومای یوروتلیال غیر تهاجمی مثانه (NMIBC) در بیماران High-risk چیست؟,urology,fa,doctor,پروتکل استاندارد درمان برای سرطان مثانه غیرتهاجمی با خطر بالا شامل برداشت تومور مثانه از طریق مجرای ادراری (TURBT) و به دنبال آن درمان داخل مثانه‌ای با باسیلوس کالمت-گرین (BCG) است. طبقه‌بندی خطر در تعیین رویکرد درمانی بسیار مهم است و برای بیماران با خطر بالا، BCG به عنوان یک رژیم القایی، معمولاً به صورت هفتگی به مدت شش هفته تجویز می‌شود. درمان نگهدارنده با BCG مزایای اثبات‌شده‌ای دارد، اگرچه رژیم بهینه آن نامشخص است؛ به طور کلی شامل سه تزریق یک بار در هفته در فواصل ۳ تا ۶ ماه به مدت سه سال پس از TURBT می‌باشد.
+پروتکل درمانی استاندارد برای کارسینومای یوروتلیال غیر تهاجمی مثانه (NMIBC) در بیماران High-risk چیست؟,urology,fa,doctor,"پروتکل استاندارد درمان برای سرطان مثانه غیرتهاجمی با خطر بالا شامل برداشت تومور مثانه از طریق مجرای ادراری (TURBT) و به دنبال آن درمان داخل مثانه‌ای با باسیلوس کالمت-گرن (BCG) است. BCG به عنوان یک رژیم القایی تجویز می‌شود که معمولاً شامل تزریق‌های هفتگی به مدت شش هفته است. درمان نگهدارنده با BCG مزایای اثبات‌شده‌ای دارد، اگرچه رژیم بهینه آن مشخص نیست؛ رژیم‌های منتشر شده اغلب شامل سه تزریق یک بار در هفته در فواصل ۳ تا ۶ ماه به مدت سه سال پس از TURBT هستند.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Smith and Tanaghos General Urology, 19th Ed_260411_214628 > Immunotherapy in Urologic Malignancies`
+- `Smith and Tanaghos General Urology, 19th Ed_260411_214628 > Urothelial Carcinoma: Cancers of the Bladder, Ureter, and Renal Pelvis`"
+پروتکل درمانی استاندارد برای کارسینومای یوروتلیال غیر تهاجمی مثانه (NMIBC) در بیماران High-risk چیست؟,urology,fa,doctor,"پروتکل استاندارد درمان برای سرطان مثانه غیرتهاجمی با خطر بالا (NMIBC) شامل برداشت تومور مثانه از طریق مجرای ادراری (TURBT) و به دنبال آن درمان با باسیلوس کالمت-گرین (BCG) داخل مثانه‌ای است. BCG در پیشگیری از عود در بیماران NMIBC با خطر بالا نسبت به شیمی‌درمانی داخل مثانه‌ای برتر است و در تأخیر پیشرفت سرطان سطحی مثانه با خطر بالا مؤثر است، اگرچه ۴۰-۵۰٪ از بیماران ممکن است با پیگیری طولانی‌مدت همچنان پیشرفت بیماری را تجربه کنند [منبع 7]. رژیم القایی توصیه‌شده برای BCG به صورت هفتگی به مدت ۶ هفته است و به دنبال آن یک رژیم درمان نگهدارنده که شامل سه تزریق یک بار در هفته در فواصل ۳-۶ ماه به مدت ۳ سال پس از TURBT است [منبع 7].
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Smith and Tanaghos General Urology, 19th Ed_260411_214628 > Urothelial Carcinoma: Cancers of the Bladder, Ureter, and Renal Pelvis`"
+What is the formula for calculating the kinetic energy of an electron?,out_of_domain,en,patient,"I apologize, I am a specialized urology assistant and cannot answer questions outside of this domain."
+"It hurts when I pee and I see blood in my urine, should I be worried?",urology,en,patient,"Seeing blood in your urine and experiencing pain during urination can be concerning. These symptoms may indicate a condition like a urinary tract infection, kidney or bladder stones, or even a more serious issue such as a tumor in the urinary tract [Source 1]. It's important to have these symptoms evaluated by a healthcare professional to determine the cause and receive appropriate treatment [Source 2]. Please consider seeking medical attention soon.
+
+---
+**📚 References & Breadcrumbs:**
+- `Smith and Tanaghos General Urology, 19th Ed_260411_214628 > Symptoms of Disorders of the Genitourinary Tract`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 2 Evaluation of the Urologic Patient: History and Physical Examination`"
+"It hurts when I pee and I see blood in my urine, should I be worried?",urology,en,patient,"Seeing blood in your urine and experiencing pain when you pee can be concerning and should not be ignored. These symptoms could be signs of a urinary tract infection, kidney stones, or other conditions that need medical attention. It's important to see a healthcare provider to determine the cause and get appropriate treatment. They will likely ask about your symptoms and may perform tests to find out what's going on. Don't hesitate to seek medical advice to ensure your health and peace of mind.
+
+---
+**📚 References & Breadcrumbs:**
+- `Smith and Tanaghos General Urology, 19th Ed_260411_214628 > Symptoms of Disorders of the Genitourinary Tract`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 2 Evaluation of the Urologic Patient: History and Physical Examination`"
+پروتکل درمانی استاندارد برای کارسینومای یوروتلیال غیر تهاجمی مثانه (NMIBC) در بیماران High-risk چیست؟,urology,fa,doctor,"پروتکل استاندارد درمان برای سرطان مثانه غیرتهاجمی به عضله با خطر بالا شامل برداشت تومور مثانه از طریق مجرای ادراری (TURBT) و به دنبال آن درمان داخل مثانه‌ای است. باسیلوس کالمت-گرین (BCG) داخل مثانه‌ای به طور معمول استفاده می‌شود زیرا نشان داده شده است که در کاهش نرخ عود مؤثر است. درمان معمولاً شامل یک دوره القایی BCG و به دنبال آن درمان نگهدارنده برای حفظ اثرات درمانی آن است. طبقه‌بندی خطر در تعیین رژیم درمانی مناسب بسیار مهم است و بیماران با خطر بالا نیاز به پیگیری و درمان فشرده‌تری دارند تا از پیشرفت به بیماری تهاجمی به عضله جلوگیری شود.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Smith and Tanaghos General Urology, 19th Ed_260411_214628 > Urothelial Carcinoma: Cancers of the Bladder, Ureter, and Renal Pelvis`
+- `Smith and Tanaghos General Urology, 19th Ed_260411_214628 > Immunotherapy in Urologic Malignancies`
+- `Campbell_Walsh_Wein_Urology_Volume_3_,_13th_Edition > 130 Management Strategies for Non–Muscle-Invasive Bladder Cancer (Ta, T1, and CIS)`"
+"It hurts when I pee and I see blood in my urine, should I be worried?",urology,en,patient,"Seeing blood in your urine and experiencing pain when you pee can be concerning and should not be ignored. These symptoms could be signs of a urinary tract infection, kidney stones, or other conditions that may need medical attention. It's important to see a healthcare provider to determine the cause and get appropriate treatment. They will likely ask about other symptoms and your medical history to help diagnose the issue.
+
+---
+**📚 References & Breadcrumbs:**
+- `Smith and Tanaghos General Urology, 19th Ed_260411_214628 > Symptoms of Disorders of the Genitourinary Tract`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 2 Evaluation of the Urologic Patient: History and Physical Examination`"
+پروتکل درمانی استاندارد برای کارسینومای یوروتلیال غیر تهاجمی مثانه (NMIBC) در بیماران High-risk چیست؟,urology,fa,doctor,"پروتکل استاندارد درمان برای سرطان مثانه غیرتهاجمی عضلانی با خطر بالا شامل برداشت تومور مثانه از طریق مجرای ادراری (TURBT) و به دنبال آن درمان با باسیل کالمت-گرن (BCG) داخل مثانه‌ای است. طبقه‌بندی خطر در تعیین رویکرد درمانی بسیار مهم است و برای بیماران با خطر بالا، BCG به دلیل اثربخشی برتر در جلوگیری از عود، بر شیمی‌درمانی داخل مثانه‌ای ترجیح داده می‌شود. رژیم القایی معمولاً شامل تزریق‌های هفتگی BCG به مدت شش هفته است و به دنبال آن یک مرحله نگهداری انجام می‌شود. درمان نگهدارنده، اگرچه رژیم بهینه به وضوح تعریف نشده است، به طور کلی شامل سه تزریق در فواصل ۳ تا ۶ ماهه تا سه سال پس از TURBT می‌باشد.
+
+---
+**📚 مسیر منابع و مراجع:**
+- `Smith and Tanaghos General Urology, 19th Ed_260411_214628 > Urothelial Carcinoma: Cancers of the Bladder, Ureter, and Renal Pelvis`"
+"It hurts when I pee and I see blood in my urine, should I be worried?",urology,en,patient,"Seeing blood in your urine and experiencing pain when you pee can be concerning and should not be ignored. These symptoms could be signs of a urinary tract infection, kidney stones, or other conditions that need medical attention. It's important to see a healthcare provider to determine the cause and get appropriate treatment. They will likely ask about your symptoms and may perform tests to help diagnose the issue. Don't hesitate to seek medical advice to ensure your health and peace of mind.
+
+---
+**📚 References & Breadcrumbs:**
+- `Smith and Tanaghos General Urology, 19th Ed_260411_214628 > Symptoms of Disorders of the Genitourinary Tract`
+- `Campbell_Walsh_Wein_Urology_Volume_1_,_13th_Edition > 2 Evaluation of the Urologic Patient: History and Physical Examination`"
