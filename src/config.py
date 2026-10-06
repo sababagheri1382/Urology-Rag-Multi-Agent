@@ -16,21 +16,21 @@ hybrid_retriever = MedicalHybridRetriever(
 )
 
 generation_llm = ChatOpenAI(
-    model="gpt-4o", 
+    model="qwen3.6-35b-a3b", 
     api_key=openai_api_key,
     base_url="https://api.gapgpt.app/v1",
     temperature=0,
 )
 
 router_llm = ChatOpenAI(
-    model="gpt-4o-mini", 
+    model="qwen3.6-35b-a3b", 
     api_key=openai_api_key,
     base_url="https://api.gapgpt.app/v1",
     temperature=0,
 )
 
 translator_llm = ChatOpenAI(
-    model="gpt-4o",
+    model="qwen3.6-35b-a3b",
     base_url="https://api.gapgpt.app/v1",
     api_key=openai_api_key,
     temperature=0.01,
